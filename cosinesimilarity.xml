@@ -1,0 +1,4835 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SourceID id='130458288' >
+	<TargetID id='102391063' >
+		<TweetText>0.03485</TweetText>
+		<CommonTweeter>0.17549</CommonTweeter>
+		<Follower>0.11901</Follower>
+		<Friend>0.06088</Friend>
+		<RetweetsText>0.00746</RetweetsText>
+		<ClassifiedTweetText>0.02637</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='108391251' >
+		<FavTweetText>0.06374</FavTweetText>
+		<TweetText>0.01992</TweetText>
+		<Friend>0.00803</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.01886</RetweetsText>
+		<ClassifiedTweetText>0.00876</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.00806</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='111365839' >
+		<TweetText>0.02067</TweetText>
+		<CommonTweeter>0.0939</CommonTweeter>
+		<Follower>0.0995</Follower>
+		<Friend>0.05586</Friend>
+		<ClassifiedTweetText>0.01886</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='113435178' >
+		<FavTweetText>0.02712</FavTweetText>
+		<TweetText>0.01277</TweetText>
+		<Friend>0.00615</Friend>
+		<RetweetsText>0.03771</RetweetsText>
+		<ClassifiedTweetText>0.01123</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='11348282' >
+		<TweetsUsernames>0.01024</TweetsUsernames>
+		<TweetText>0.03776</TweetText>
+		<RetweetsText>0.08245</RetweetsText>
+		<ClassifiedTweetText>0.01654</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='113963' >
+		<FavTweetText>0.06439</FavTweetText>
+		<TweetText>0.02172</TweetText>
+		<Follower>0.00164</Follower>
+		<Friend>0.00809</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.03273</RetweetsText>
+		<ClassifiedTweetText>0.00999</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.02514</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='130458288' >
+		<TweetsURLs>1</TweetsURLs>
+		<FavTweetUserTZ>1</FavTweetUserTZ>
+		<FavTweetUserListsCount>1</FavTweetUserListsCount>
+		<FavTweetScreenName>1</FavTweetScreenName>
+		<TweetsUsernames>1</TweetsUsernames>
+		<FavTweetUserFollowersCount>1</FavTweetUserFollowersCount>
+		<FavTweetUserFriendsCount>1</FavTweetUserFriendsCount>
+		<FavTweetUsername>1</FavTweetUsername>
+		<FavTweetUserId>1</FavTweetUserId>
+		<FavTweetText>1</FavTweetText>
+		<RetweetUsernames>1</RetweetUsernames>
+		<TweetText>1</TweetText>
+		<CommonTweeter>1</CommonTweeter>
+		<FavTweetUserLocation>1</FavTweetUserLocation>
+		<Follower>1</Follower>
+		<RetweetHashtags>1</RetweetHashtags>
+		<Friend>1</Friend>
+		<TweetsHashTags>1</TweetsHashTags>
+		<FavTweetUserStatusesCount>1</FavTweetUserStatusesCount>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetURLs>1</RetweetURLs>
+		<FavTweetUserURL>1</FavTweetUserURL>
+		<RetweetsText>1</RetweetsText>
+		<ClassifiedTweetText>1</ClassifiedTweetText>
+		<FavTweetClassifiedText>1</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='133782966' >
+		<TweetsUsernames>0.01219</TweetsUsernames>
+		<RetweetUsernames>0.02492</RetweetUsernames>
+		<TweetText>0.03021</TweetText>
+		<Friend>0.0119</Friend>
+		<RetweetsText>0.07315</RetweetsText>
+		<ClassifiedTweetText>0.01819</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='135421739' >
+		<TweetText>0.02792</TweetText>
+		<ClassifiedTweetText>0.02555</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='139768884' >
+		<TweetText>0.02292</TweetText>
+		<CommonTweeter>0.11268</CommonTweeter>
+		<Follower>0.08579</Follower>
+		<Friend>0.06969</Friend>
+		<RetweetsText>0.04508</RetweetsText>
+		<ClassifiedTweetText>0.01147</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='140811199' >
+		<FavTweetText>0.06898</FavTweetText>
+		<TweetText>0.02441</TweetText>
+		<CommonTweeter>0.05165</CommonTweeter>
+		<Follower>0.0281</Follower>
+		<Friend>0.0302</Friend>
+		<RetweetsText>0.04656</RetweetsText>
+		<ClassifiedTweetText>0.00813</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='14346186' >
+		<TweetText>0.01615</TweetText>
+		<Follower>0.00022</Follower>
+		<Friend>0.02469</Friend>
+		<RetweetsText>0.07173</RetweetsText>
+		<ClassifiedTweetText>0.02037</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15110431' >
+		<TweetText>0.00636</TweetText>
+		<ClassifiedTweetText>0.0151</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15134782' >
+		<TweetText>0.01965</TweetText>
+		<Friend>0.00028</Friend>
+		<RetweetsText>0.05987</RetweetsText>
+		<ClassifiedTweetText>0.01756</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15166546' >
+		<FavTweetText>0.01374</FavTweetText>
+		<TweetText>0.01872</TweetText>
+		<Follower>0.00195</Follower>
+		<RetweetsText>0.07151</RetweetsText>
+		<ClassifiedTweetText>0.0139</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15432645' >
+		<TweetText>0.02198</TweetText>
+		<Follower>0.00031</Follower>
+		<Friend>0.00225</Friend>
+		<RetweetsText>0.06345</RetweetsText>
+		<ClassifiedTweetText>0.023</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15492359' >
+		<FavTweetText>0.02927</FavTweetText>
+		<TweetText>0.00846</TweetText>
+		<RetweetsText>0.02675</RetweetsText>
+		<ClassifiedTweetText>0.00895</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='154970439' >
+		<TweetText>0.00091</TweetText>
+		<CommonTweeter>0.02237</CommonTweeter>
+		<Follower>0.04358</Follower>
+		<Friend>0.02574</Friend>
+		<ClassifiedTweetText>0.02171</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15521075' >
+		<TweetsURLs>0.01917</TweetsURLs>
+		<FavTweetText>0.07118</FavTweetText>
+		<TweetText>0.00835</TweetText>
+		<Follower>0.00021</Follower>
+		<Friend>0.02019</Friend>
+		<ClassifiedTweetText>0.00821</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15593588' >
+		<TweetText>0.005</TweetText>
+		<Follower>0.00302</Follower>
+		<ClassifiedTweetText>0.00566</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='16319797' >
+		<FavTweetText>0.01378</FavTweetText>
+		<TweetText>0.01725</TweetText>
+		<Follower>0.00022</Follower>
+		<RetweetHashtags>0.04343</RetweetHashtags>
+		<Friend>0.00329</Friend>
+		<TweetsHashTags>0.01125</TweetsHashTags>
+		<RetweetsText>0.05927</RetweetsText>
+		<ClassifiedTweetText>0.00991</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='167346791' >
+		<FavTweetText>0.01391</FavTweetText>
+		<TweetText>0.01489</TweetText>
+		<CommonTweeter>0.00387</CommonTweeter>
+		<Follower>0.00617</Follower>
+		<Friend>0.0029</Friend>
+		<ClassifiedTweetText>0.01065</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='16949221' >
+		<TweetsUsernames>0.01671</TweetsUsernames>
+		<FavTweetText>0.07666</FavTweetText>
+		<RetweetUsernames>0.032</RetweetUsernames>
+		<TweetText>0.02621</TweetText>
+		<CommonTweeter>0.01397</CommonTweeter>
+		<Follower>0.00764</Follower>
+		<Friend>0.04196</Friend>
+		<RetweetsText>0.12934</RetweetsText>
+		<ClassifiedTweetText>0.02669</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.02593</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='17149512' >
+		<TweetsURLs>0.028</TweetsURLs>
+		<TweetsUsernames>0.06778</TweetsUsernames>
+		<RetweetUsernames>0.05125</RetweetUsernames>
+		<TweetText>0.07894</TweetText>
+		<CommonTweeter>0.03176</CommonTweeter>
+		<Follower>0.01387</Follower>
+		<RetweetHashtags>0.10536</RetweetHashtags>
+		<Friend>0.10681</Friend>
+		<TweetsHashTags>0.04885</TweetsHashTags>
+		<RetweetsText>0.1369</RetweetsText>
+		<ClassifiedTweetText>0.05652</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='17163609' >
+		<TweetText>0.02851</TweetText>
+		<Friend>0.00875</Friend>
+		<RetweetsText>0.09093</RetweetsText>
+		<ClassifiedTweetText>0.0134</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='17482727' >
+		<FavTweetText>0.01394</FavTweetText>
+		<TweetText>0.03206</TweetText>
+		<Follower>0.00023</Follower>
+		<Friend>0.02529</Friend>
+		<RetweetsText>0.00892</RetweetsText>
+		<ClassifiedTweetText>0.01963</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='18548529' >
+		<TweetText>0.04294</TweetText>
+		<CommonTweeter>0.01683</CommonTweeter>
+		<Follower>0.01802</Follower>
+		<Friend>0.0251</Friend>
+		<RetweetsText>0.04748</RetweetsText>
+		<ClassifiedTweetText>0.02029</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='193373572' >
+		<TweetText>0.04435</TweetText>
+		<CommonTweeter>0.0631</CommonTweeter>
+		<Follower>0.08224</Follower>
+		<Friend>0.06271</Friend>
+		<RetweetsText>0.03454</RetweetsText>
+		<ClassifiedTweetText>0.005</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='19618954' >
+		<TweetText>0.02605</TweetText>
+		<Follower>0.00045</Follower>
+		<RetweetsText>0.06655</RetweetsText>
+		<ClassifiedTweetText>0.01339</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='19652820' >
+		<TweetText>0.0288</TweetText>
+		<Follower>0.00045</Follower>
+		<Friend>0.03353</Friend>
+		<ClassifiedTweetText>0.00357</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='20167623' >
+		<TweetsURLs>0.01823</TweetsURLs>
+		<TweetsUsernames>0.02902</TweetsUsernames>
+		<FavTweetText>0.02106</FavTweetText>
+		<RetweetUsernames>0.03903</RetweetUsernames>
+		<TweetText>0.03216</TweetText>
+		<CommonTweeter>0.01034</CommonTweeter>
+		<Follower>0.00712</Follower>
+		<RetweetHashtags>0.16651</RetweetHashtags>
+		<Friend>0.0317</Friend>
+		<TweetsHashTags>0.12926</TweetsHashTags>
+		<RetweetURLs>0.08498</RetweetURLs>
+		<RetweetsText>0.07292</RetweetsText>
+		<ClassifiedTweetText>0.02993</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.01663</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='20536157' >
+		<TweetsUsernames>0.01074</TweetsUsernames>
+		<FavTweetText>0.03142</FavTweetText>
+		<TweetText>0.02208</TweetText>
+		<Friend>0.00508</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.03883</RetweetsText>
+		<ClassifiedTweetText>0.02191</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.02561</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='21457289' >
+		<TweetText>0.01647</TweetText>
+		<Friend>0.00465</Friend>
+		<RetweetsText>0.04776</RetweetsText>
+		<ClassifiedTweetText>0.00978</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='23731187' >
+		<TweetText>0.00977</TweetText>
+		<Follower>0.00727</Follower>
+		<ClassifiedTweetText>0.00933</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='251908806' >
+		<TweetText>0.00378</TweetText>
+		<Follower>0.10867</Follower>
+		<ClassifiedTweetText>0.00394</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='27978316' >
+		<TweetText>0.02596</TweetText>
+		<Follower>0.00067</Follower>
+		<RetweetsText>0.02292</RetweetsText>
+		<ClassifiedTweetText>0.01351</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='292314390' >
+		<TweetText>0.02141</TweetText>
+		<ClassifiedTweetText>0.04061</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='31053470' >
+		<FavTweetText>0.06745</FavTweetText>
+		<TweetText>0.05376</TweetText>
+		<CommonTweeter>0.00851</CommonTweeter>
+		<Follower>0.01296</Follower>
+		<Friend>0.02548</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.05981</RetweetsText>
+		<ClassifiedTweetText>0.07882</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='315704132' >
+		<FavTweetUsername>0.40947</FavTweetUsername>
+		<TweetText>0.00051</TweetText>
+		<Follower>0.09267</Follower>
+		<Friend>0.01313</Friend>
+	</TargetID>
+	<TargetID id='33838201' >
+		<TweetText>0.0225</TweetText>
+		<Friend>0.04972</Friend>
+		<RetweetsText>0.02999</RetweetsText>
+		<ClassifiedTweetText>0.01274</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='36076870' >
+		<FavTweetText>0.04732</FavTweetText>
+		<TweetText>0.01836</TweetText>
+		<Follower>0.00056</Follower>
+		<Friend>0.01838</Friend>
+		<RetweetsText>0.0236</RetweetsText>
+		<ClassifiedTweetText>0.0108</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='42573217' >
+		<FavTweetText>0.06202</FavTweetText>
+		<TweetText>0.04036</TweetText>
+		<Friend>0.01143</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.04979</RetweetsText>
+		<ClassifiedTweetText>0.02065</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='4519121' >
+		<FavTweetText>0.02884</FavTweetText>
+		<TweetText>0.0274</TweetText>
+		<Friend>0.00399</Friend>
+		<RetweetsText>0.04181</RetweetsText>
+		<ClassifiedTweetText>0.01356</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='50393960' >
+		<TweetText>0.03018</TweetText>
+		<Friend>0.00519</Friend>
+		<RetweetsText>0.01826</RetweetsText>
+		<ClassifiedTweetText>0.012</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='506528882' >
+		<Friend>0.01849</Friend>
+	</TargetID>
+	<TargetID id='59104629' >
+		<TweetText>0.03924</TweetText>
+		<CommonTweeter>0.09666</CommonTweeter>
+		<Follower>0.0493</Follower>
+		<Friend>0.04088</Friend>
+		<RetweetsText>0.03698</RetweetsText>
+		<ClassifiedTweetText>0.03114</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='60937837' >
+		<FavTweetText>0.02506</FavTweetText>
+		<TweetText>0.02118</TweetText>
+		<RetweetsText>0.02876</RetweetsText>
+		<ClassifiedTweetText>0.00631</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='6463042' >
+		<FavTweetText>0.09366</FavTweetText>
+		<TweetText>0.01253</TweetText>
+		<Friend>0.01292</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.03861</RetweetsText>
+		<ClassifiedTweetText>0.00932</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.02071</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='68097618' >
+		<FavTweetText>0.01887</FavTweetText>
+		<TweetText>0.0836</TweetText>
+		<CommonTweeter>0.00864</CommonTweeter>
+		<Follower>0.00822</Follower>
+		<Friend>0.02045</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.0913</RetweetsText>
+		<ClassifiedTweetText>0.12556</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='68639853' >
+		<TweetText>0.02679</TweetText>
+		<ClassifiedTweetText>0.02836</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='69382909' >
+		<FavTweetText>0.03396</FavTweetText>
+		<TweetText>0.02164</TweetText>
+		<RetweetsText>0.01758</RetweetsText>
+		<ClassifiedTweetText>0.02342</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='75035680' >
+		<TweetsUsernames>0.04886</TweetsUsernames>
+		<RetweetUsernames>0.12194</RetweetUsernames>
+		<TweetText>0.01991</TweetText>
+		<CommonTweeter>0.03036</CommonTweeter>
+		<Follower>0.02381</Follower>
+		<Friend>0.0242</Friend>
+		<RetweetsText>0.03811</RetweetsText>
+		<ClassifiedTweetText>0.00422</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='75341204' >
+		<TweetsUsernames>0.01178</TweetsUsernames>
+		<RetweetUsernames>0.01969</RetweetUsernames>
+		<TweetText>0.03674</TweetText>
+		<CommonTweeter>0.03987</CommonTweeter>
+		<Follower>0.02744</Follower>
+		<Friend>0.05296</Friend>
+		<RetweetsText>0.05637</RetweetsText>
+		<ClassifiedTweetText>0.01623</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='783214' >
+		<TweetText>0.01658</TweetText>
+		<RetweetsText>0.06418</RetweetsText>
+		<ClassifiedTweetText>0.01507</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='79659995' >
+		<FavTweetText>0.02457</FavTweetText>
+		<TweetText>0.0304</TweetText>
+		<CommonTweeter>0.04573</CommonTweeter>
+		<Follower>0.05346</Follower>
+		<Friend>0.25251</Friend>
+		<RetweetsText>0.07232</RetweetsText>
+		<ClassifiedTweetText>0.01966</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='84404237' >
+		<TweetText>0.00937</TweetText>
+		<ClassifiedTweetText>0.00389</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='8454562' >
+		<FavTweetText>0.08916</FavTweetText>
+		<TweetText>0.02904</TweetText>
+		<Follower>0.00266</Follower>
+		<RetweetsText>0.06814</RetweetsText>
+		<ClassifiedTweetText>0.02887</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='89635940' >
+		<TweetText>0.00259</TweetText>
+		<CommonTweeter>0.12544</CommonTweeter>
+		<Follower>0.08763</Follower>
+		<Friend>0.10129</Friend>
+	</TargetID>
+	<TargetID id='92746664' >
+		<FavTweetText>0.11065</FavTweetText>
+		<TweetText>0.05676</TweetText>
+		<Follower>0.01006</Follower>
+		<Friend>0.006</Friend>
+		<ClassifiedTweetText>0.02029</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.05241</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='95143772' >
+		<TweetText>0.00799</TweetText>
+		<CommonTweeter>0.09561</CommonTweeter>
+		<Follower>0.09049</Follower>
+		<Friend>0.08104</Friend>
+		<RetweetsText>0.00563</RetweetsText>
+		<ClassifiedTweetText>0.0063</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='95951868' >
+		<TweetText>0.02052</TweetText>
+		<CommonTweeter>0.10935</CommonTweeter>
+		<Follower>0.07113</Follower>
+		<Friend>0.07316</Friend>
+		<RetweetsText>0.02867</RetweetsText>
+		<ClassifiedTweetText>0.01058</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='972651' >
+		<FavTweetText>0.02788</FavTweetText>
+		<TweetText>0.02224</TweetText>
+		<Friend>0.0028</Friend>
+		<RetweetsText>0.03123</RetweetsText>
+		<ClassifiedTweetText>0.01472</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='97542499' >
+		<TweetText>0.04297</TweetText>
+		<Follower>0.00066</Follower>
+		<RetweetsText>0.04618</RetweetsText>
+		<ClassifiedTweetText>0.01335</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='102391063' >
+		<TweetText>0.03485</TweetText>
+		<CommonTweeter>0.17549</CommonTweeter>
+		<Follower>0.11901</Follower>
+		<Friend>0.06088</Friend>
+		<RetweetsText>0.00746</RetweetsText>
+		<ClassifiedTweetText>0.02637</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='108391251' >
+		<FavTweetText>0.06374</FavTweetText>
+		<TweetText>0.01992</TweetText>
+		<Friend>0.00803</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.01886</RetweetsText>
+		<ClassifiedTweetText>0.00876</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.00806</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='111365839' >
+		<TweetText>0.02067</TweetText>
+		<CommonTweeter>0.0939</CommonTweeter>
+		<Follower>0.0995</Follower>
+		<Friend>0.05586</Friend>
+		<ClassifiedTweetText>0.01886</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='113435178' >
+		<FavTweetText>0.02712</FavTweetText>
+		<TweetText>0.01277</TweetText>
+		<Friend>0.00615</Friend>
+		<RetweetsText>0.03771</RetweetsText>
+		<ClassifiedTweetText>0.01123</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='11348282' >
+		<TweetsUsernames>0.01024</TweetsUsernames>
+		<TweetText>0.03776</TweetText>
+		<RetweetsText>0.08245</RetweetsText>
+		<ClassifiedTweetText>0.01654</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='113963' >
+		<FavTweetText>0.06439</FavTweetText>
+		<TweetText>0.02172</TweetText>
+		<Follower>0.00164</Follower>
+		<Friend>0.00809</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.03273</RetweetsText>
+		<ClassifiedTweetText>0.00999</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.02514</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='130458288' >
+		<TweetsURLs>1</TweetsURLs>
+		<FavTweetUserTZ>1</FavTweetUserTZ>
+		<FavTweetUserListsCount>1</FavTweetUserListsCount>
+		<FavTweetScreenName>1</FavTweetScreenName>
+		<TweetsUsernames>1</TweetsUsernames>
+		<FavTweetUserFollowersCount>1</FavTweetUserFollowersCount>
+		<FavTweetUserFriendsCount>1</FavTweetUserFriendsCount>
+		<FavTweetUsername>1</FavTweetUsername>
+		<FavTweetUserId>1</FavTweetUserId>
+		<FavTweetText>1</FavTweetText>
+		<RetweetUsernames>1</RetweetUsernames>
+		<TweetText>1</TweetText>
+		<CommonTweeter>1</CommonTweeter>
+		<FavTweetUserLocation>1</FavTweetUserLocation>
+		<Follower>1</Follower>
+		<RetweetHashtags>1</RetweetHashtags>
+		<Friend>1</Friend>
+		<TweetsHashTags>1</TweetsHashTags>
+		<FavTweetUserStatusesCount>1</FavTweetUserStatusesCount>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetURLs>1</RetweetURLs>
+		<FavTweetUserURL>1</FavTweetUserURL>
+		<RetweetsText>1</RetweetsText>
+		<ClassifiedTweetText>1</ClassifiedTweetText>
+		<FavTweetClassifiedText>1</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='133782966' >
+		<TweetsUsernames>0.01219</TweetsUsernames>
+		<RetweetUsernames>0.02492</RetweetUsernames>
+		<TweetText>0.03021</TweetText>
+		<Friend>0.0119</Friend>
+		<RetweetsText>0.07315</RetweetsText>
+		<ClassifiedTweetText>0.01819</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='135421739' >
+		<TweetText>0.02792</TweetText>
+		<ClassifiedTweetText>0.02555</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='139768884' >
+		<TweetText>0.02292</TweetText>
+		<CommonTweeter>0.11268</CommonTweeter>
+		<Follower>0.08579</Follower>
+		<Friend>0.06969</Friend>
+		<RetweetsText>0.04508</RetweetsText>
+		<ClassifiedTweetText>0.01147</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='140811199' >
+		<FavTweetText>0.06898</FavTweetText>
+		<TweetText>0.02441</TweetText>
+		<CommonTweeter>0.05165</CommonTweeter>
+		<Follower>0.0281</Follower>
+		<Friend>0.0302</Friend>
+		<RetweetsText>0.04656</RetweetsText>
+		<ClassifiedTweetText>0.00813</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='14346186' >
+		<TweetText>0.01615</TweetText>
+		<Follower>0.00022</Follower>
+		<Friend>0.02469</Friend>
+		<RetweetsText>0.07173</RetweetsText>
+		<ClassifiedTweetText>0.02037</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15110431' >
+		<TweetText>0.00636</TweetText>
+		<ClassifiedTweetText>0.0151</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15134782' >
+		<TweetText>0.01965</TweetText>
+		<Friend>0.00028</Friend>
+		<RetweetsText>0.05987</RetweetsText>
+		<ClassifiedTweetText>0.01756</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15166546' >
+		<FavTweetText>0.01374</FavTweetText>
+		<TweetText>0.01872</TweetText>
+		<Follower>0.00195</Follower>
+		<RetweetsText>0.07151</RetweetsText>
+		<ClassifiedTweetText>0.0139</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15432645' >
+		<TweetText>0.02198</TweetText>
+		<Follower>0.00031</Follower>
+		<Friend>0.00225</Friend>
+		<RetweetsText>0.06345</RetweetsText>
+		<ClassifiedTweetText>0.023</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15492359' >
+		<FavTweetText>0.02927</FavTweetText>
+		<TweetText>0.00846</TweetText>
+		<RetweetsText>0.02675</RetweetsText>
+		<ClassifiedTweetText>0.00895</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='154970439' >
+		<TweetText>0.00091</TweetText>
+		<CommonTweeter>0.02237</CommonTweeter>
+		<Follower>0.04358</Follower>
+		<Friend>0.02574</Friend>
+		<ClassifiedTweetText>0.02171</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15521075' >
+		<TweetsURLs>0.01917</TweetsURLs>
+		<FavTweetText>0.07118</FavTweetText>
+		<TweetText>0.00835</TweetText>
+		<Follower>0.00021</Follower>
+		<Friend>0.02019</Friend>
+		<ClassifiedTweetText>0.00821</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15593588' >
+		<TweetText>0.005</TweetText>
+		<Follower>0.00302</Follower>
+		<ClassifiedTweetText>0.00566</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='16319797' >
+		<FavTweetText>0.01378</FavTweetText>
+		<TweetText>0.01725</TweetText>
+		<Follower>0.00022</Follower>
+		<RetweetHashtags>0.04343</RetweetHashtags>
+		<Friend>0.00329</Friend>
+		<TweetsHashTags>0.01125</TweetsHashTags>
+		<RetweetsText>0.05927</RetweetsText>
+		<ClassifiedTweetText>0.00991</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='167346791' >
+		<FavTweetText>0.01391</FavTweetText>
+		<TweetText>0.01489</TweetText>
+		<CommonTweeter>0.00387</CommonTweeter>
+		<Follower>0.00617</Follower>
+		<Friend>0.0029</Friend>
+		<ClassifiedTweetText>0.01065</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='16949221' >
+		<TweetsUsernames>0.01671</TweetsUsernames>
+		<FavTweetText>0.07666</FavTweetText>
+		<RetweetUsernames>0.032</RetweetUsernames>
+		<TweetText>0.02621</TweetText>
+		<CommonTweeter>0.01397</CommonTweeter>
+		<Follower>0.00764</Follower>
+		<Friend>0.04196</Friend>
+		<RetweetsText>0.12934</RetweetsText>
+		<ClassifiedTweetText>0.02669</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.02593</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='17149512' >
+		<TweetsURLs>0.028</TweetsURLs>
+		<TweetsUsernames>0.06778</TweetsUsernames>
+		<RetweetUsernames>0.05125</RetweetUsernames>
+		<TweetText>0.07894</TweetText>
+		<CommonTweeter>0.03176</CommonTweeter>
+		<Follower>0.01387</Follower>
+		<RetweetHashtags>0.10536</RetweetHashtags>
+		<Friend>0.10681</Friend>
+		<TweetsHashTags>0.04885</TweetsHashTags>
+		<RetweetsText>0.1369</RetweetsText>
+		<ClassifiedTweetText>0.05652</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='17163609' >
+		<TweetText>0.02851</TweetText>
+		<Friend>0.00875</Friend>
+		<RetweetsText>0.09093</RetweetsText>
+		<ClassifiedTweetText>0.0134</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='17482727' >
+		<FavTweetText>0.01394</FavTweetText>
+		<TweetText>0.03206</TweetText>
+		<Follower>0.00023</Follower>
+		<Friend>0.02529</Friend>
+		<RetweetsText>0.00892</RetweetsText>
+		<ClassifiedTweetText>0.01963</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='18548529' >
+		<TweetText>0.04294</TweetText>
+		<CommonTweeter>0.01683</CommonTweeter>
+		<Follower>0.01802</Follower>
+		<Friend>0.0251</Friend>
+		<RetweetsText>0.04748</RetweetsText>
+		<ClassifiedTweetText>0.02029</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='193373572' >
+		<TweetText>0.04435</TweetText>
+		<CommonTweeter>0.0631</CommonTweeter>
+		<Follower>0.08224</Follower>
+		<Friend>0.06271</Friend>
+		<RetweetsText>0.03454</RetweetsText>
+		<ClassifiedTweetText>0.005</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='19618954' >
+		<TweetText>0.02605</TweetText>
+		<Follower>0.00045</Follower>
+		<RetweetsText>0.06655</RetweetsText>
+		<ClassifiedTweetText>0.01339</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='19652820' >
+		<TweetText>0.0288</TweetText>
+		<Follower>0.00045</Follower>
+		<Friend>0.03353</Friend>
+		<ClassifiedTweetText>0.00357</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='20167623' >
+		<TweetsURLs>0.01823</TweetsURLs>
+		<TweetsUsernames>0.02902</TweetsUsernames>
+		<FavTweetText>0.02106</FavTweetText>
+		<RetweetUsernames>0.03903</RetweetUsernames>
+		<TweetText>0.03216</TweetText>
+		<CommonTweeter>0.01034</CommonTweeter>
+		<Follower>0.00712</Follower>
+		<RetweetHashtags>0.16651</RetweetHashtags>
+		<Friend>0.0317</Friend>
+		<TweetsHashTags>0.12926</TweetsHashTags>
+		<RetweetURLs>0.08498</RetweetURLs>
+		<RetweetsText>0.07292</RetweetsText>
+		<ClassifiedTweetText>0.02993</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.01663</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='20536157' >
+		<TweetsUsernames>0.01074</TweetsUsernames>
+		<FavTweetText>0.03142</FavTweetText>
+		<TweetText>0.02208</TweetText>
+		<Friend>0.00508</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.03883</RetweetsText>
+		<ClassifiedTweetText>0.02191</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.02561</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='21457289' >
+		<TweetText>0.01647</TweetText>
+		<Friend>0.00465</Friend>
+		<RetweetsText>0.04776</RetweetsText>
+		<ClassifiedTweetText>0.00978</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='23731187' >
+		<TweetText>0.00977</TweetText>
+		<Follower>0.00727</Follower>
+		<ClassifiedTweetText>0.00933</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='251908806' >
+		<TweetText>0.00378</TweetText>
+		<Follower>0.10867</Follower>
+		<ClassifiedTweetText>0.00394</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='27978316' >
+		<TweetText>0.02596</TweetText>
+		<Follower>0.00067</Follower>
+		<RetweetsText>0.02292</RetweetsText>
+		<ClassifiedTweetText>0.01351</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='292314390' >
+		<TweetText>0.02141</TweetText>
+		<ClassifiedTweetText>0.04061</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='31053470' >
+		<FavTweetText>0.06745</FavTweetText>
+		<TweetText>0.05376</TweetText>
+		<CommonTweeter>0.00851</CommonTweeter>
+		<Follower>0.01296</Follower>
+		<Friend>0.02548</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.05981</RetweetsText>
+		<ClassifiedTweetText>0.07882</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='315704132' >
+		<FavTweetUsername>0.40947</FavTweetUsername>
+		<TweetText>0.00051</TweetText>
+		<Follower>0.09267</Follower>
+		<Friend>0.01313</Friend>
+	</TargetID>
+	<TargetID id='33838201' >
+		<TweetText>0.0225</TweetText>
+		<Friend>0.04972</Friend>
+		<RetweetsText>0.02999</RetweetsText>
+		<ClassifiedTweetText>0.01274</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='36076870' >
+		<FavTweetText>0.04732</FavTweetText>
+		<TweetText>0.01836</TweetText>
+		<Follower>0.00056</Follower>
+		<Friend>0.01838</Friend>
+		<RetweetsText>0.0236</RetweetsText>
+		<ClassifiedTweetText>0.0108</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='42573217' >
+		<FavTweetText>0.06202</FavTweetText>
+		<TweetText>0.04036</TweetText>
+		<Friend>0.01143</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.04979</RetweetsText>
+		<ClassifiedTweetText>0.02065</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='4519121' >
+		<FavTweetText>0.02884</FavTweetText>
+		<TweetText>0.0274</TweetText>
+		<Friend>0.00399</Friend>
+		<RetweetsText>0.04181</RetweetsText>
+		<ClassifiedTweetText>0.01356</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='50393960' >
+		<TweetText>0.03018</TweetText>
+		<Friend>0.00519</Friend>
+		<RetweetsText>0.01826</RetweetsText>
+		<ClassifiedTweetText>0.012</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='506528882' >
+		<Friend>0.01849</Friend>
+	</TargetID>
+	<TargetID id='59104629' >
+		<TweetText>0.03924</TweetText>
+		<CommonTweeter>0.09666</CommonTweeter>
+		<Follower>0.0493</Follower>
+		<Friend>0.04088</Friend>
+		<RetweetsText>0.03698</RetweetsText>
+		<ClassifiedTweetText>0.03114</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='60937837' >
+		<FavTweetText>0.02506</FavTweetText>
+		<TweetText>0.02118</TweetText>
+		<RetweetsText>0.02876</RetweetsText>
+		<ClassifiedTweetText>0.00631</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='6463042' >
+		<FavTweetText>0.09366</FavTweetText>
+		<TweetText>0.01253</TweetText>
+		<Friend>0.01292</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.03861</RetweetsText>
+		<ClassifiedTweetText>0.00932</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.02071</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='68097618' >
+		<FavTweetText>0.01887</FavTweetText>
+		<TweetText>0.0836</TweetText>
+		<CommonTweeter>0.00864</CommonTweeter>
+		<Follower>0.00822</Follower>
+		<Friend>0.02045</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.0913</RetweetsText>
+		<ClassifiedTweetText>0.12556</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='68639853' >
+		<TweetText>0.02679</TweetText>
+		<ClassifiedTweetText>0.02836</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='69382909' >
+		<FavTweetText>0.03396</FavTweetText>
+		<TweetText>0.02164</TweetText>
+		<RetweetsText>0.01758</RetweetsText>
+		<ClassifiedTweetText>0.02342</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='75035680' >
+		<TweetsUsernames>0.04886</TweetsUsernames>
+		<RetweetUsernames>0.12194</RetweetUsernames>
+		<TweetText>0.01991</TweetText>
+		<CommonTweeter>0.03036</CommonTweeter>
+		<Follower>0.02381</Follower>
+		<Friend>0.0242</Friend>
+		<RetweetsText>0.03811</RetweetsText>
+		<ClassifiedTweetText>0.00422</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='75341204' >
+		<TweetsUsernames>0.01178</TweetsUsernames>
+		<RetweetUsernames>0.01969</RetweetUsernames>
+		<TweetText>0.03674</TweetText>
+		<CommonTweeter>0.03987</CommonTweeter>
+		<Follower>0.02744</Follower>
+		<Friend>0.05296</Friend>
+		<RetweetsText>0.05637</RetweetsText>
+		<ClassifiedTweetText>0.01623</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='783214' >
+		<TweetText>0.01658</TweetText>
+		<RetweetsText>0.06418</RetweetsText>
+		<ClassifiedTweetText>0.01507</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='79659995' >
+		<FavTweetText>0.02457</FavTweetText>
+		<TweetText>0.0304</TweetText>
+		<CommonTweeter>0.04573</CommonTweeter>
+		<Follower>0.05346</Follower>
+		<Friend>0.25251</Friend>
+		<RetweetsText>0.07232</RetweetsText>
+		<ClassifiedTweetText>0.01966</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='84404237' >
+		<TweetText>0.00937</TweetText>
+		<ClassifiedTweetText>0.00389</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='8454562' >
+		<FavTweetText>0.08916</FavTweetText>
+		<TweetText>0.02904</TweetText>
+		<Follower>0.00266</Follower>
+		<RetweetsText>0.06814</RetweetsText>
+		<ClassifiedTweetText>0.02887</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='89635940' >
+		<TweetText>0.00259</TweetText>
+		<CommonTweeter>0.12544</CommonTweeter>
+		<Follower>0.08763</Follower>
+		<Friend>0.10129</Friend>
+	</TargetID>
+	<TargetID id='92746664' >
+		<FavTweetText>0.11065</FavTweetText>
+		<TweetText>0.05676</TweetText>
+		<Follower>0.01006</Follower>
+		<Friend>0.006</Friend>
+		<ClassifiedTweetText>0.02029</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.05241</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='95143772' >
+		<TweetText>0.00799</TweetText>
+		<CommonTweeter>0.09561</CommonTweeter>
+		<Follower>0.09049</Follower>
+		<Friend>0.08104</Friend>
+		<RetweetsText>0.00563</RetweetsText>
+		<ClassifiedTweetText>0.0063</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='95951868' >
+		<TweetText>0.02052</TweetText>
+		<CommonTweeter>0.10935</CommonTweeter>
+		<Follower>0.07113</Follower>
+		<Friend>0.07316</Friend>
+		<RetweetsText>0.02867</RetweetsText>
+		<ClassifiedTweetText>0.01058</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='972651' >
+		<FavTweetText>0.02788</FavTweetText>
+		<TweetText>0.02224</TweetText>
+		<Friend>0.0028</Friend>
+		<RetweetsText>0.03123</RetweetsText>
+		<ClassifiedTweetText>0.01472</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='97542499' >
+		<TweetText>0.04297</TweetText>
+		<Follower>0.00066</Follower>
+		<RetweetsText>0.04618</RetweetsText>
+		<ClassifiedTweetText>0.01335</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='102391063' >
+		<TweetText>0.03485</TweetText>
+		<CommonTweeter>0.17549</CommonTweeter>
+		<Follower>0.11901</Follower>
+		<Friend>0.06088</Friend>
+		<RetweetsText>0.00746</RetweetsText>
+		<ClassifiedTweetText>0.02637</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='108391251' >
+		<FavTweetText>0.06374</FavTweetText>
+		<TweetText>0.01992</TweetText>
+		<Friend>0.00803</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.01886</RetweetsText>
+		<ClassifiedTweetText>0.00876</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.00806</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='111365839' >
+		<TweetText>0.02067</TweetText>
+		<CommonTweeter>0.0939</CommonTweeter>
+		<Follower>0.0995</Follower>
+		<Friend>0.05586</Friend>
+		<ClassifiedTweetText>0.01886</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='113435178' >
+		<FavTweetText>0.02712</FavTweetText>
+		<TweetText>0.01277</TweetText>
+		<Friend>0.00615</Friend>
+		<RetweetsText>0.03771</RetweetsText>
+		<ClassifiedTweetText>0.01123</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='11348282' >
+		<TweetsUsernames>0.01024</TweetsUsernames>
+		<TweetText>0.03776</TweetText>
+		<RetweetsText>0.08245</RetweetsText>
+		<ClassifiedTweetText>0.01654</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='113963' >
+		<FavTweetText>0.06439</FavTweetText>
+		<TweetText>0.02172</TweetText>
+		<Follower>0.00164</Follower>
+		<Friend>0.00809</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.03273</RetweetsText>
+		<ClassifiedTweetText>0.00999</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.02514</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='130458288' >
+		<TweetsURLs>1</TweetsURLs>
+		<FavTweetUserTZ>1</FavTweetUserTZ>
+		<FavTweetUserListsCount>1</FavTweetUserListsCount>
+		<FavTweetScreenName>1</FavTweetScreenName>
+		<TweetsUsernames>1</TweetsUsernames>
+		<FavTweetUserFollowersCount>1</FavTweetUserFollowersCount>
+		<FavTweetUserFriendsCount>1</FavTweetUserFriendsCount>
+		<FavTweetUsername>1</FavTweetUsername>
+		<FavTweetUserId>1</FavTweetUserId>
+		<FavTweetText>1</FavTweetText>
+		<RetweetUsernames>1</RetweetUsernames>
+		<TweetText>1</TweetText>
+		<CommonTweeter>1</CommonTweeter>
+		<FavTweetUserLocation>1</FavTweetUserLocation>
+		<Follower>1</Follower>
+		<RetweetHashtags>1</RetweetHashtags>
+		<Friend>1</Friend>
+		<TweetsHashTags>1</TweetsHashTags>
+		<FavTweetUserStatusesCount>1</FavTweetUserStatusesCount>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetURLs>1</RetweetURLs>
+		<FavTweetUserURL>1</FavTweetUserURL>
+		<RetweetsText>1</RetweetsText>
+		<ClassifiedTweetText>1</ClassifiedTweetText>
+		<FavTweetClassifiedText>1</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='133782966' >
+		<TweetsUsernames>0.01219</TweetsUsernames>
+		<RetweetUsernames>0.02492</RetweetUsernames>
+		<TweetText>0.03021</TweetText>
+		<Friend>0.0119</Friend>
+		<RetweetsText>0.07315</RetweetsText>
+		<ClassifiedTweetText>0.01819</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='135421739' >
+		<TweetText>0.02792</TweetText>
+		<ClassifiedTweetText>0.02555</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='139768884' >
+		<TweetText>0.02292</TweetText>
+		<CommonTweeter>0.11268</CommonTweeter>
+		<Follower>0.08579</Follower>
+		<Friend>0.06969</Friend>
+		<RetweetsText>0.04508</RetweetsText>
+		<ClassifiedTweetText>0.01147</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='140811199' >
+		<FavTweetText>0.06898</FavTweetText>
+		<TweetText>0.02441</TweetText>
+		<CommonTweeter>0.05165</CommonTweeter>
+		<Follower>0.0281</Follower>
+		<Friend>0.0302</Friend>
+		<RetweetsText>0.04656</RetweetsText>
+		<ClassifiedTweetText>0.00813</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='14346186' >
+		<TweetText>0.01615</TweetText>
+		<Follower>0.00022</Follower>
+		<Friend>0.02469</Friend>
+		<RetweetsText>0.07173</RetweetsText>
+		<ClassifiedTweetText>0.02037</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15110431' >
+		<TweetText>0.00636</TweetText>
+		<ClassifiedTweetText>0.0151</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15134782' >
+		<TweetText>0.01965</TweetText>
+		<Friend>0.00028</Friend>
+		<RetweetsText>0.05987</RetweetsText>
+		<ClassifiedTweetText>0.01756</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15166546' >
+		<FavTweetText>0.01374</FavTweetText>
+		<TweetText>0.01872</TweetText>
+		<Follower>0.00195</Follower>
+		<RetweetsText>0.07151</RetweetsText>
+		<ClassifiedTweetText>0.0139</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15432645' >
+		<TweetText>0.02198</TweetText>
+		<Follower>0.00031</Follower>
+		<Friend>0.00225</Friend>
+		<RetweetsText>0.06345</RetweetsText>
+		<ClassifiedTweetText>0.023</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15492359' >
+		<FavTweetText>0.02927</FavTweetText>
+		<TweetText>0.00846</TweetText>
+		<RetweetsText>0.02675</RetweetsText>
+		<ClassifiedTweetText>0.00895</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='154970439' >
+		<TweetText>0.00091</TweetText>
+		<CommonTweeter>0.02237</CommonTweeter>
+		<Follower>0.04358</Follower>
+		<Friend>0.02574</Friend>
+		<ClassifiedTweetText>0.02171</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15521075' >
+		<TweetsURLs>0.01917</TweetsURLs>
+		<FavTweetText>0.07118</FavTweetText>
+		<TweetText>0.00835</TweetText>
+		<Follower>0.00021</Follower>
+		<Friend>0.02019</Friend>
+		<ClassifiedTweetText>0.00821</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15593588' >
+		<TweetText>0.005</TweetText>
+		<Follower>0.00302</Follower>
+		<ClassifiedTweetText>0.00566</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='16319797' >
+		<FavTweetText>0.01378</FavTweetText>
+		<TweetText>0.01725</TweetText>
+		<Follower>0.00022</Follower>
+		<RetweetHashtags>0.04343</RetweetHashtags>
+		<Friend>0.00329</Friend>
+		<TweetsHashTags>0.01125</TweetsHashTags>
+		<RetweetsText>0.05927</RetweetsText>
+		<ClassifiedTweetText>0.00991</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='167346791' >
+		<FavTweetText>0.01391</FavTweetText>
+		<TweetText>0.01489</TweetText>
+		<CommonTweeter>0.00387</CommonTweeter>
+		<Follower>0.00617</Follower>
+		<Friend>0.0029</Friend>
+		<ClassifiedTweetText>0.01065</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='16949221' >
+		<TweetsUsernames>0.01671</TweetsUsernames>
+		<FavTweetText>0.07666</FavTweetText>
+		<RetweetUsernames>0.032</RetweetUsernames>
+		<TweetText>0.02621</TweetText>
+		<CommonTweeter>0.01397</CommonTweeter>
+		<Follower>0.00764</Follower>
+		<Friend>0.04196</Friend>
+		<RetweetsText>0.12934</RetweetsText>
+		<ClassifiedTweetText>0.02669</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.02593</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='17149512' >
+		<TweetsURLs>0.028</TweetsURLs>
+		<TweetsUsernames>0.06778</TweetsUsernames>
+		<RetweetUsernames>0.05125</RetweetUsernames>
+		<TweetText>0.07894</TweetText>
+		<CommonTweeter>0.03176</CommonTweeter>
+		<Follower>0.01387</Follower>
+		<RetweetHashtags>0.10536</RetweetHashtags>
+		<Friend>0.10681</Friend>
+		<TweetsHashTags>0.04885</TweetsHashTags>
+		<RetweetsText>0.1369</RetweetsText>
+		<ClassifiedTweetText>0.05652</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='17163609' >
+		<TweetText>0.02851</TweetText>
+		<Friend>0.00875</Friend>
+		<RetweetsText>0.09093</RetweetsText>
+		<ClassifiedTweetText>0.0134</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='17482727' >
+		<FavTweetText>0.01394</FavTweetText>
+		<TweetText>0.03206</TweetText>
+		<Follower>0.00023</Follower>
+		<Friend>0.02529</Friend>
+		<RetweetsText>0.00892</RetweetsText>
+		<ClassifiedTweetText>0.01963</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='18548529' >
+		<TweetText>0.04294</TweetText>
+		<CommonTweeter>0.01683</CommonTweeter>
+		<Follower>0.01802</Follower>
+		<Friend>0.0251</Friend>
+		<RetweetsText>0.04748</RetweetsText>
+		<ClassifiedTweetText>0.02029</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='193373572' >
+		<TweetText>0.04435</TweetText>
+		<CommonTweeter>0.0631</CommonTweeter>
+		<Follower>0.08224</Follower>
+		<Friend>0.06271</Friend>
+		<RetweetsText>0.03454</RetweetsText>
+		<ClassifiedTweetText>0.005</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='19618954' >
+		<TweetText>0.02605</TweetText>
+		<Follower>0.00045</Follower>
+		<RetweetsText>0.06655</RetweetsText>
+		<ClassifiedTweetText>0.01339</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='19652820' >
+		<TweetText>0.0288</TweetText>
+		<Follower>0.00045</Follower>
+		<Friend>0.03353</Friend>
+		<ClassifiedTweetText>0.00357</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='20167623' >
+		<TweetsURLs>0.01823</TweetsURLs>
+		<TweetsUsernames>0.02902</TweetsUsernames>
+		<FavTweetText>0.02106</FavTweetText>
+		<RetweetUsernames>0.03903</RetweetUsernames>
+		<TweetText>0.03216</TweetText>
+		<CommonTweeter>0.01034</CommonTweeter>
+		<Follower>0.00712</Follower>
+		<RetweetHashtags>0.16651</RetweetHashtags>
+		<Friend>0.0317</Friend>
+		<TweetsHashTags>0.12926</TweetsHashTags>
+		<RetweetURLs>0.08498</RetweetURLs>
+		<RetweetsText>0.07292</RetweetsText>
+		<ClassifiedTweetText>0.02993</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.01663</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='20536157' >
+		<TweetsUsernames>0.01074</TweetsUsernames>
+		<FavTweetText>0.03142</FavTweetText>
+		<TweetText>0.02208</TweetText>
+		<Friend>0.00508</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.03883</RetweetsText>
+		<ClassifiedTweetText>0.02191</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.02561</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='21457289' >
+		<TweetText>0.01647</TweetText>
+		<Friend>0.00465</Friend>
+		<RetweetsText>0.04776</RetweetsText>
+		<ClassifiedTweetText>0.00978</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='23731187' >
+		<TweetText>0.00977</TweetText>
+		<Follower>0.00727</Follower>
+		<ClassifiedTweetText>0.00933</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='251908806' >
+		<TweetText>0.00378</TweetText>
+		<Follower>0.10867</Follower>
+		<ClassifiedTweetText>0.00394</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='27978316' >
+		<TweetText>0.02596</TweetText>
+		<Follower>0.00067</Follower>
+		<RetweetsText>0.02292</RetweetsText>
+		<ClassifiedTweetText>0.01351</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='292314390' >
+		<TweetText>0.02141</TweetText>
+		<ClassifiedTweetText>0.04061</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='31053470' >
+		<FavTweetText>0.06745</FavTweetText>
+		<TweetText>0.05376</TweetText>
+		<CommonTweeter>0.00851</CommonTweeter>
+		<Follower>0.01296</Follower>
+		<Friend>0.02548</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.05981</RetweetsText>
+		<ClassifiedTweetText>0.07882</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='315704132' >
+		<FavTweetUsername>0.40947</FavTweetUsername>
+		<TweetText>0.00051</TweetText>
+		<Follower>0.09267</Follower>
+		<Friend>0.01313</Friend>
+	</TargetID>
+	<TargetID id='33838201' >
+		<TweetText>0.0225</TweetText>
+		<Friend>0.04972</Friend>
+		<RetweetsText>0.02999</RetweetsText>
+		<ClassifiedTweetText>0.01274</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='36076870' >
+		<FavTweetText>0.04732</FavTweetText>
+		<TweetText>0.01836</TweetText>
+		<Follower>0.00056</Follower>
+		<Friend>0.01838</Friend>
+		<RetweetsText>0.0236</RetweetsText>
+		<ClassifiedTweetText>0.0108</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='42573217' >
+		<FavTweetText>0.06202</FavTweetText>
+		<TweetText>0.04036</TweetText>
+		<Friend>0.01143</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.04979</RetweetsText>
+		<ClassifiedTweetText>0.02065</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='4519121' >
+		<FavTweetText>0.02884</FavTweetText>
+		<TweetText>0.0274</TweetText>
+		<Friend>0.00399</Friend>
+		<RetweetsText>0.04181</RetweetsText>
+		<ClassifiedTweetText>0.01356</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='50393960' >
+		<TweetText>0.03018</TweetText>
+		<Friend>0.00519</Friend>
+		<RetweetsText>0.01826</RetweetsText>
+		<ClassifiedTweetText>0.012</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='506528882' >
+		<Friend>0.01849</Friend>
+	</TargetID>
+	<TargetID id='59104629' >
+		<TweetText>0.03924</TweetText>
+		<CommonTweeter>0.09666</CommonTweeter>
+		<Follower>0.0493</Follower>
+		<Friend>0.04088</Friend>
+		<RetweetsText>0.03698</RetweetsText>
+		<ClassifiedTweetText>0.03114</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='60937837' >
+		<FavTweetText>0.02506</FavTweetText>
+		<TweetText>0.02118</TweetText>
+		<RetweetsText>0.02876</RetweetsText>
+		<ClassifiedTweetText>0.00631</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='6463042' >
+		<FavTweetText>0.09366</FavTweetText>
+		<TweetText>0.01253</TweetText>
+		<Friend>0.01292</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.03861</RetweetsText>
+		<ClassifiedTweetText>0.00932</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.02071</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='68097618' >
+		<FavTweetText>0.01887</FavTweetText>
+		<TweetText>0.0836</TweetText>
+		<CommonTweeter>0.00864</CommonTweeter>
+		<Follower>0.00822</Follower>
+		<Friend>0.02045</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.0913</RetweetsText>
+		<ClassifiedTweetText>0.12556</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='68639853' >
+		<TweetText>0.02679</TweetText>
+		<ClassifiedTweetText>0.02836</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='69382909' >
+		<FavTweetText>0.03396</FavTweetText>
+		<TweetText>0.02164</TweetText>
+		<RetweetsText>0.01758</RetweetsText>
+		<ClassifiedTweetText>0.02342</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='75035680' >
+		<TweetsUsernames>0.04886</TweetsUsernames>
+		<RetweetUsernames>0.12194</RetweetUsernames>
+		<TweetText>0.01991</TweetText>
+		<CommonTweeter>0.03036</CommonTweeter>
+		<Follower>0.02381</Follower>
+		<Friend>0.0242</Friend>
+		<RetweetsText>0.03811</RetweetsText>
+		<ClassifiedTweetText>0.00422</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='75341204' >
+		<TweetsUsernames>0.01178</TweetsUsernames>
+		<RetweetUsernames>0.01969</RetweetUsernames>
+		<TweetText>0.03674</TweetText>
+		<CommonTweeter>0.03987</CommonTweeter>
+		<Follower>0.02744</Follower>
+		<Friend>0.05296</Friend>
+		<RetweetsText>0.05637</RetweetsText>
+		<ClassifiedTweetText>0.01623</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='783214' >
+		<TweetText>0.01658</TweetText>
+		<RetweetsText>0.06418</RetweetsText>
+		<ClassifiedTweetText>0.01507</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='79659995' >
+		<FavTweetText>0.02457</FavTweetText>
+		<TweetText>0.0304</TweetText>
+		<CommonTweeter>0.04573</CommonTweeter>
+		<Follower>0.05346</Follower>
+		<Friend>0.25251</Friend>
+		<RetweetsText>0.07232</RetweetsText>
+		<ClassifiedTweetText>0.01966</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='84404237' >
+		<TweetText>0.00937</TweetText>
+		<ClassifiedTweetText>0.00389</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='8454562' >
+		<FavTweetText>0.08916</FavTweetText>
+		<TweetText>0.02904</TweetText>
+		<Follower>0.00266</Follower>
+		<RetweetsText>0.06814</RetweetsText>
+		<ClassifiedTweetText>0.02887</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='89635940' >
+		<TweetText>0.00259</TweetText>
+		<CommonTweeter>0.12544</CommonTweeter>
+		<Follower>0.08763</Follower>
+		<Friend>0.10129</Friend>
+	</TargetID>
+	<TargetID id='92746664' >
+		<FavTweetText>0.11065</FavTweetText>
+		<TweetText>0.05676</TweetText>
+		<Follower>0.01006</Follower>
+		<Friend>0.006</Friend>
+		<ClassifiedTweetText>0.02029</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.05241</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='95143772' >
+		<TweetText>0.00799</TweetText>
+		<CommonTweeter>0.09561</CommonTweeter>
+		<Follower>0.09049</Follower>
+		<Friend>0.08104</Friend>
+		<RetweetsText>0.00563</RetweetsText>
+		<ClassifiedTweetText>0.0063</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='95951868' >
+		<TweetText>0.02052</TweetText>
+		<CommonTweeter>0.10935</CommonTweeter>
+		<Follower>0.07113</Follower>
+		<Friend>0.07316</Friend>
+		<RetweetsText>0.02867</RetweetsText>
+		<ClassifiedTweetText>0.01058</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='972651' >
+		<FavTweetText>0.02788</FavTweetText>
+		<TweetText>0.02224</TweetText>
+		<Friend>0.0028</Friend>
+		<RetweetsText>0.03123</RetweetsText>
+		<ClassifiedTweetText>0.01472</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='97542499' >
+		<TweetText>0.04297</TweetText>
+		<Follower>0.00066</Follower>
+		<RetweetsText>0.04618</RetweetsText>
+		<ClassifiedTweetText>0.01335</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='102391063' >
+		<TweetText>0.03485</TweetText>
+		<CommonTweeter>0.17549</CommonTweeter>
+		<Follower>0.11901</Follower>
+		<Friend>0.06088</Friend>
+		<RetweetsText>0.00746</RetweetsText>
+		<ClassifiedTweetText>0.02637</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='108391251' >
+		<FavTweetText>0.06374</FavTweetText>
+		<TweetText>0.01992</TweetText>
+		<Friend>0.00803</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.01886</RetweetsText>
+		<ClassifiedTweetText>0.00876</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.00806</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='111365839' >
+		<TweetText>0.02067</TweetText>
+		<CommonTweeter>0.0939</CommonTweeter>
+		<Follower>0.0995</Follower>
+		<Friend>0.05586</Friend>
+		<ClassifiedTweetText>0.01886</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='113435178' >
+		<FavTweetText>0.02712</FavTweetText>
+		<TweetText>0.01277</TweetText>
+		<Friend>0.00615</Friend>
+		<RetweetsText>0.03771</RetweetsText>
+		<ClassifiedTweetText>0.01123</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='11348282' >
+		<TweetsUsernames>0.01024</TweetsUsernames>
+		<TweetText>0.03776</TweetText>
+		<RetweetsText>0.08245</RetweetsText>
+		<ClassifiedTweetText>0.01654</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='113963' >
+		<FavTweetText>0.06439</FavTweetText>
+		<TweetText>0.02172</TweetText>
+		<Follower>0.00164</Follower>
+		<Friend>0.00809</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.03273</RetweetsText>
+		<ClassifiedTweetText>0.00999</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.02514</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='124038044' >
+	</TargetID>
+	<TargetID id='130458288' >
+		<TweetsURLs>1</TweetsURLs>
+		<FavTweetUserTZ>1</FavTweetUserTZ>
+		<FavTweetUserListsCount>1</FavTweetUserListsCount>
+		<FavTweetScreenName>1</FavTweetScreenName>
+		<TweetsUsernames>1</TweetsUsernames>
+		<FavTweetUserFollowersCount>1</FavTweetUserFollowersCount>
+		<FavTweetUserFriendsCount>1</FavTweetUserFriendsCount>
+		<FavTweetUsername>1</FavTweetUsername>
+		<FavTweetUserId>1</FavTweetUserId>
+		<FavTweetText>1</FavTweetText>
+		<RetweetUsernames>1</RetweetUsernames>
+		<TweetText>1</TweetText>
+		<CommonTweeter>1</CommonTweeter>
+		<FavTweetUserLocation>1</FavTweetUserLocation>
+		<Follower>1</Follower>
+		<RetweetHashtags>1</RetweetHashtags>
+		<Friend>1</Friend>
+		<TweetsHashTags>1</TweetsHashTags>
+		<FavTweetUserStatusesCount>1</FavTweetUserStatusesCount>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetURLs>1</RetweetURLs>
+		<FavTweetUserURL>1</FavTweetUserURL>
+		<RetweetsText>1</RetweetsText>
+		<ClassifiedTweetText>1</ClassifiedTweetText>
+		<FavTweetClassifiedText>1</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='132982542' >
+		<CommonTweeter>0.12992</CommonTweeter>
+	</TargetID>
+	<TargetID id='133782966' >
+		<TweetsUsernames>0.01219</TweetsUsernames>
+		<RetweetUsernames>0.02492</RetweetUsernames>
+		<TweetText>0.03021</TweetText>
+		<Friend>0.0119</Friend>
+		<RetweetsText>0.07315</RetweetsText>
+		<ClassifiedTweetText>0.01819</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='135421739' >
+		<TweetText>0.02792</TweetText>
+		<ClassifiedTweetText>0.02555</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='139768884' >
+		<TweetText>0.02292</TweetText>
+		<CommonTweeter>0.11268</CommonTweeter>
+		<Follower>0.08579</Follower>
+		<Friend>0.06969</Friend>
+		<RetweetsText>0.04508</RetweetsText>
+		<ClassifiedTweetText>0.01147</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='139977217' >
+		<CommonTweeter>0.18666</CommonTweeter>
+	</TargetID>
+	<TargetID id='140811199' >
+		<FavTweetText>0.06898</FavTweetText>
+		<TweetText>0.02441</TweetText>
+		<CommonTweeter>0.05165</CommonTweeter>
+		<Follower>0.0281</Follower>
+		<Friend>0.0302</Friend>
+		<RetweetsText>0.04656</RetweetsText>
+		<ClassifiedTweetText>0.00813</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='14284157' >
+		<CommonTweeter>0.0085</CommonTweeter>
+	</TargetID>
+	<TargetID id='14346186' >
+		<TweetText>0.01615</TweetText>
+		<Follower>0.00022</Follower>
+		<Friend>0.02469</Friend>
+		<RetweetsText>0.07173</RetweetsText>
+		<ClassifiedTweetText>0.02037</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15110431' >
+		<TweetText>0.00636</TweetText>
+		<ClassifiedTweetText>0.0151</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15134782' >
+		<TweetText>0.01965</TweetText>
+		<Friend>0.00028</Friend>
+		<RetweetsText>0.05987</RetweetsText>
+		<ClassifiedTweetText>0.01756</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15166546' >
+		<FavTweetText>0.01374</FavTweetText>
+		<TweetText>0.01872</TweetText>
+		<Follower>0.00195</Follower>
+		<RetweetsText>0.07151</RetweetsText>
+		<ClassifiedTweetText>0.0139</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15432645' >
+		<TweetText>0.02198</TweetText>
+		<Follower>0.00031</Follower>
+		<Friend>0.00225</Friend>
+		<RetweetsText>0.06345</RetweetsText>
+		<ClassifiedTweetText>0.023</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15492359' >
+		<FavTweetText>0.02927</FavTweetText>
+		<TweetText>0.00846</TweetText>
+		<RetweetsText>0.02675</RetweetsText>
+		<ClassifiedTweetText>0.00895</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='154970439' >
+		<TweetText>0.00091</TweetText>
+		<CommonTweeter>0.02237</CommonTweeter>
+		<Follower>0.04358</Follower>
+		<Friend>0.02574</Friend>
+		<ClassifiedTweetText>0.02171</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15521075' >
+		<TweetsURLs>0.01917</TweetsURLs>
+		<FavTweetText>0.07118</FavTweetText>
+		<TweetText>0.00835</TweetText>
+		<Follower>0.00021</Follower>
+		<Friend>0.02019</Friend>
+		<ClassifiedTweetText>0.00821</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15593588' >
+		<TweetText>0.005</TweetText>
+		<Follower>0.00302</Follower>
+		<ClassifiedTweetText>0.00566</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='16319797' >
+		<FavTweetText>0.01378</FavTweetText>
+		<TweetText>0.01725</TweetText>
+		<Follower>0.00022</Follower>
+		<RetweetHashtags>0.04343</RetweetHashtags>
+		<Friend>0.00329</Friend>
+		<TweetsHashTags>0.01125</TweetsHashTags>
+		<RetweetsText>0.05927</RetweetsText>
+		<ClassifiedTweetText>0.00991</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='167346791' >
+		<FavTweetText>0.01391</FavTweetText>
+		<TweetText>0.01489</TweetText>
+		<CommonTweeter>0.00387</CommonTweeter>
+		<Follower>0.00617</Follower>
+		<Friend>0.0029</Friend>
+		<ClassifiedTweetText>0.01065</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='167729493' >
+		<CommonTweeter>0.03275</CommonTweeter>
+	</TargetID>
+	<TargetID id='16949221' >
+		<TweetsUsernames>0.01671</TweetsUsernames>
+		<FavTweetText>0.07666</FavTweetText>
+		<RetweetUsernames>0.032</RetweetUsernames>
+		<TweetText>0.02621</TweetText>
+		<CommonTweeter>0.01397</CommonTweeter>
+		<Follower>0.00764</Follower>
+		<Friend>0.04196</Friend>
+		<RetweetsText>0.12934</RetweetsText>
+		<ClassifiedTweetText>0.02669</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.02593</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='17149512' >
+		<TweetsURLs>0.028</TweetsURLs>
+		<TweetsUsernames>0.06778</TweetsUsernames>
+		<RetweetUsernames>0.05125</RetweetUsernames>
+		<TweetText>0.07894</TweetText>
+		<CommonTweeter>0.03176</CommonTweeter>
+		<Follower>0.01387</Follower>
+		<RetweetHashtags>0.10536</RetweetHashtags>
+		<Friend>0.10681</Friend>
+		<TweetsHashTags>0.04885</TweetsHashTags>
+		<RetweetsText>0.1369</RetweetsText>
+		<ClassifiedTweetText>0.05652</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='17163609' >
+		<TweetText>0.02851</TweetText>
+		<Friend>0.00875</Friend>
+		<RetweetsText>0.09093</RetweetsText>
+		<ClassifiedTweetText>0.0134</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='17381587' >
+	</TargetID>
+	<TargetID id='17482727' >
+		<FavTweetText>0.01394</FavTweetText>
+		<TweetText>0.03206</TweetText>
+		<Follower>0.00023</Follower>
+		<Friend>0.02529</Friend>
+		<RetweetsText>0.00892</RetweetsText>
+		<ClassifiedTweetText>0.01963</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='17833970' >
+		<CommonTweeter>0.0521</CommonTweeter>
+	</TargetID>
+	<TargetID id='179604202' >
+	</TargetID>
+	<TargetID id='18318677' >
+	</TargetID>
+	<TargetID id='18548529' >
+		<TweetText>0.04294</TweetText>
+		<CommonTweeter>0.01683</CommonTweeter>
+		<Follower>0.01802</Follower>
+		<Friend>0.0251</Friend>
+		<RetweetsText>0.04748</RetweetsText>
+		<ClassifiedTweetText>0.02029</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='193373572' >
+		<TweetText>0.04435</TweetText>
+		<CommonTweeter>0.0631</CommonTweeter>
+		<Follower>0.08224</Follower>
+		<Friend>0.06271</Friend>
+		<RetweetsText>0.03454</RetweetsText>
+		<ClassifiedTweetText>0.005</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='19618954' >
+		<TweetText>0.02605</TweetText>
+		<Follower>0.00045</Follower>
+		<RetweetsText>0.06655</RetweetsText>
+		<ClassifiedTweetText>0.01339</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='19652820' >
+		<TweetText>0.0288</TweetText>
+		<Follower>0.00045</Follower>
+		<Friend>0.03353</Friend>
+		<ClassifiedTweetText>0.00357</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='20167623' >
+		<TweetsURLs>0.01823</TweetsURLs>
+		<TweetsUsernames>0.02902</TweetsUsernames>
+		<FavTweetText>0.02106</FavTweetText>
+		<RetweetUsernames>0.03903</RetweetUsernames>
+		<TweetText>0.03216</TweetText>
+		<CommonTweeter>0.01034</CommonTweeter>
+		<Follower>0.00712</Follower>
+		<RetweetHashtags>0.16651</RetweetHashtags>
+		<Friend>0.0317</Friend>
+		<TweetsHashTags>0.12926</TweetsHashTags>
+		<RetweetURLs>0.08498</RetweetURLs>
+		<RetweetsText>0.07292</RetweetsText>
+		<ClassifiedTweetText>0.02993</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.01663</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='20536157' >
+		<TweetsUsernames>0.01074</TweetsUsernames>
+		<FavTweetText>0.03142</FavTweetText>
+		<TweetText>0.02208</TweetText>
+		<Friend>0.00508</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.03883</RetweetsText>
+		<ClassifiedTweetText>0.02191</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.02561</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='207717785' >
+	</TargetID>
+	<TargetID id='21457289' >
+		<TweetText>0.01647</TweetText>
+		<Friend>0.00465</Friend>
+		<RetweetsText>0.04776</RetweetsText>
+		<ClassifiedTweetText>0.00978</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='23731187' >
+		<TweetText>0.00977</TweetText>
+		<Follower>0.00727</Follower>
+		<ClassifiedTweetText>0.00933</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='251908806' >
+		<TweetText>0.00378</TweetText>
+		<Follower>0.10867</Follower>
+		<ClassifiedTweetText>0.00394</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='27978316' >
+		<TweetText>0.02596</TweetText>
+		<Follower>0.00067</Follower>
+		<RetweetsText>0.02292</RetweetsText>
+		<ClassifiedTweetText>0.01351</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='292314390' >
+		<TweetText>0.02141</TweetText>
+		<ClassifiedTweetText>0.04061</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='31053470' >
+		<FavTweetText>0.06745</FavTweetText>
+		<TweetText>0.05376</TweetText>
+		<CommonTweeter>0.00851</CommonTweeter>
+		<Follower>0.01296</Follower>
+		<Friend>0.02548</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.05981</RetweetsText>
+		<ClassifiedTweetText>0.07882</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='315704132' >
+		<FavTweetUsername>0.40947</FavTweetUsername>
+		<TweetText>0.00051</TweetText>
+		<Follower>0.09267</Follower>
+		<Friend>0.01313</Friend>
+	</TargetID>
+	<TargetID id='33838201' >
+		<TweetText>0.0225</TweetText>
+		<Friend>0.04972</Friend>
+		<RetweetsText>0.02999</RetweetsText>
+		<ClassifiedTweetText>0.01274</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='36076870' >
+		<FavTweetText>0.04732</FavTweetText>
+		<TweetText>0.01836</TweetText>
+		<Follower>0.00056</Follower>
+		<Friend>0.01838</Friend>
+		<RetweetsText>0.0236</RetweetsText>
+		<ClassifiedTweetText>0.0108</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='389625228' >
+	</TargetID>
+	<TargetID id='41546093' >
+	</TargetID>
+	<TargetID id='42573217' >
+		<FavTweetText>0.06202</FavTweetText>
+		<TweetText>0.04036</TweetText>
+		<Friend>0.01143</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.04979</RetweetsText>
+		<ClassifiedTweetText>0.02065</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='4519121' >
+		<FavTweetText>0.02884</FavTweetText>
+		<TweetText>0.0274</TweetText>
+		<Friend>0.00399</Friend>
+		<RetweetsText>0.04181</RetweetsText>
+		<ClassifiedTweetText>0.01356</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='50393960' >
+		<TweetText>0.03018</TweetText>
+		<Friend>0.00519</Friend>
+		<RetweetsText>0.01826</RetweetsText>
+		<ClassifiedTweetText>0.012</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='506528882' >
+		<Friend>0.01849</Friend>
+	</TargetID>
+	<TargetID id='59104629' >
+		<TweetText>0.03924</TweetText>
+		<CommonTweeter>0.09666</CommonTweeter>
+		<Follower>0.0493</Follower>
+		<Friend>0.04088</Friend>
+		<RetweetsText>0.03698</RetweetsText>
+		<ClassifiedTweetText>0.03114</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='60937837' >
+		<FavTweetText>0.02506</FavTweetText>
+		<TweetText>0.02118</TweetText>
+		<RetweetsText>0.02876</RetweetsText>
+		<ClassifiedTweetText>0.00631</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='62571128' >
+	</TargetID>
+	<TargetID id='6463042' >
+		<FavTweetText>0.09366</FavTweetText>
+		<TweetText>0.01253</TweetText>
+		<Friend>0.01292</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.03861</RetweetsText>
+		<ClassifiedTweetText>0.00932</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.02071</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='68097618' >
+		<FavTweetText>0.01887</FavTweetText>
+		<TweetText>0.0836</TweetText>
+		<CommonTweeter>0.00864</CommonTweeter>
+		<Follower>0.00822</Follower>
+		<Friend>0.02045</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.0913</RetweetsText>
+		<ClassifiedTweetText>0.12556</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='68639853' >
+		<TweetText>0.02679</TweetText>
+		<ClassifiedTweetText>0.02836</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='69382909' >
+		<FavTweetText>0.03396</FavTweetText>
+		<TweetText>0.02164</TweetText>
+		<RetweetsText>0.01758</RetweetsText>
+		<ClassifiedTweetText>0.02342</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='75035680' >
+		<TweetsUsernames>0.04886</TweetsUsernames>
+		<RetweetUsernames>0.12194</RetweetUsernames>
+		<TweetText>0.01991</TweetText>
+		<CommonTweeter>0.03036</CommonTweeter>
+		<Follower>0.02381</Follower>
+		<Friend>0.0242</Friend>
+		<RetweetsText>0.03811</RetweetsText>
+		<ClassifiedTweetText>0.00422</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='75341204' >
+		<TweetsUsernames>0.01178</TweetsUsernames>
+		<RetweetUsernames>0.01969</RetweetUsernames>
+		<TweetText>0.03674</TweetText>
+		<CommonTweeter>0.03987</CommonTweeter>
+		<Follower>0.02744</Follower>
+		<Friend>0.05296</Friend>
+		<RetweetsText>0.05637</RetweetsText>
+		<ClassifiedTweetText>0.01623</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='783214' >
+		<TweetText>0.01658</TweetText>
+		<RetweetsText>0.06418</RetweetsText>
+		<ClassifiedTweetText>0.01507</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='79659995' >
+		<FavTweetText>0.02457</FavTweetText>
+		<TweetText>0.0304</TweetText>
+		<CommonTweeter>0.04573</CommonTweeter>
+		<Follower>0.05346</Follower>
+		<Friend>0.25251</Friend>
+		<RetweetsText>0.07232</RetweetsText>
+		<ClassifiedTweetText>0.01966</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='80359647' >
+	</TargetID>
+	<TargetID id='84404237' >
+		<TweetText>0.00937</TweetText>
+		<ClassifiedTweetText>0.00389</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='8454562' >
+		<FavTweetText>0.08916</FavTweetText>
+		<TweetText>0.02904</TweetText>
+		<Follower>0.00266</Follower>
+		<RetweetsText>0.06814</RetweetsText>
+		<ClassifiedTweetText>0.02887</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='88727377' >
+	</TargetID>
+	<TargetID id='89635940' >
+		<TweetText>0.00259</TweetText>
+		<CommonTweeter>0.12544</CommonTweeter>
+		<Follower>0.08763</Follower>
+		<Friend>0.10129</Friend>
+	</TargetID>
+	<TargetID id='92746664' >
+		<FavTweetText>0.11065</FavTweetText>
+		<TweetText>0.05676</TweetText>
+		<Follower>0.01006</Follower>
+		<Friend>0.006</Friend>
+		<ClassifiedTweetText>0.02029</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.05241</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='95143772' >
+		<TweetText>0.00799</TweetText>
+		<CommonTweeter>0.09561</CommonTweeter>
+		<Follower>0.09049</Follower>
+		<Friend>0.08104</Friend>
+		<RetweetsText>0.00563</RetweetsText>
+		<ClassifiedTweetText>0.0063</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='95951868' >
+		<TweetText>0.02052</TweetText>
+		<CommonTweeter>0.10935</CommonTweeter>
+		<Follower>0.07113</Follower>
+		<Friend>0.07316</Friend>
+		<RetweetsText>0.02867</RetweetsText>
+		<ClassifiedTweetText>0.01058</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='972651' >
+		<FavTweetText>0.02788</FavTweetText>
+		<TweetText>0.02224</TweetText>
+		<Friend>0.0028</Friend>
+		<RetweetsText>0.03123</RetweetsText>
+		<ClassifiedTweetText>0.01472</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='97542499' >
+		<TweetText>0.04297</TweetText>
+		<Follower>0.00066</Follower>
+		<RetweetsText>0.04618</RetweetsText>
+		<ClassifiedTweetText>0.01335</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='102391063' >
+		<TweetText>0.03485</TweetText>
+		<CommonTweeter>0.17549</CommonTweeter>
+		<Follower>0.11901</Follower>
+		<Friend>0.06088</Friend>
+		<RetweetsText>0.00746</RetweetsText>
+		<ClassifiedTweetText>0.02637</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='108391251' >
+		<FavTweetText>0.06374</FavTweetText>
+		<TweetText>0.01992</TweetText>
+		<Friend>0.00803</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.01886</RetweetsText>
+		<ClassifiedTweetText>0.00876</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.00806</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='111365839' >
+		<TweetText>0.02067</TweetText>
+		<CommonTweeter>0.0939</CommonTweeter>
+		<Follower>0.0995</Follower>
+		<Friend>0.05586</Friend>
+		<ClassifiedTweetText>0.01886</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='113435178' >
+		<FavTweetText>0.02712</FavTweetText>
+		<TweetText>0.01277</TweetText>
+		<Friend>0.00615</Friend>
+		<RetweetsText>0.03771</RetweetsText>
+		<ClassifiedTweetText>0.01123</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='11348282' >
+		<TweetsUsernames>0.01024</TweetsUsernames>
+		<TweetText>0.03776</TweetText>
+		<RetweetsText>0.08245</RetweetsText>
+		<ClassifiedTweetText>0.01654</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='113963' >
+		<FavTweetText>0.06439</FavTweetText>
+		<TweetText>0.02172</TweetText>
+		<Follower>0.00164</Follower>
+		<Friend>0.00809</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.03273</RetweetsText>
+		<ClassifiedTweetText>0.00999</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.02514</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='130458288' >
+		<TweetsURLs>1</TweetsURLs>
+		<FavTweetUserTZ>1</FavTweetUserTZ>
+		<FavTweetUserListsCount>1</FavTweetUserListsCount>
+		<FavTweetScreenName>1</FavTweetScreenName>
+		<TweetsUsernames>1</TweetsUsernames>
+		<FavTweetUserFollowersCount>1</FavTweetUserFollowersCount>
+		<FavTweetUserFriendsCount>1</FavTweetUserFriendsCount>
+		<FavTweetUsername>1</FavTweetUsername>
+		<FavTweetUserId>1</FavTweetUserId>
+		<FavTweetText>1</FavTweetText>
+		<RetweetUsernames>1</RetweetUsernames>
+		<TweetText>1</TweetText>
+		<CommonTweeter>1</CommonTweeter>
+		<FavTweetUserLocation>1</FavTweetUserLocation>
+		<Follower>1</Follower>
+		<RetweetHashtags>1</RetweetHashtags>
+		<Friend>1</Friend>
+		<TweetsHashTags>1</TweetsHashTags>
+		<FavTweetUserStatusesCount>1</FavTweetUserStatusesCount>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetURLs>1</RetweetURLs>
+		<FavTweetUserURL>1</FavTweetUserURL>
+		<RetweetsText>1</RetweetsText>
+		<ClassifiedTweetText>1</ClassifiedTweetText>
+		<FavTweetClassifiedText>1</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='133782966' >
+		<TweetsUsernames>0.01219</TweetsUsernames>
+		<RetweetUsernames>0.02492</RetweetUsernames>
+		<TweetText>0.03021</TweetText>
+		<Friend>0.0119</Friend>
+		<RetweetsText>0.07315</RetweetsText>
+		<ClassifiedTweetText>0.01819</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='135421739' >
+		<TweetText>0.02792</TweetText>
+		<ClassifiedTweetText>0.02555</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='139768884' >
+		<TweetText>0.02292</TweetText>
+		<CommonTweeter>0.11268</CommonTweeter>
+		<Follower>0.08579</Follower>
+		<Friend>0.06969</Friend>
+		<RetweetsText>0.04508</RetweetsText>
+		<ClassifiedTweetText>0.01147</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='140811199' >
+		<FavTweetText>0.06898</FavTweetText>
+		<TweetText>0.02441</TweetText>
+		<CommonTweeter>0.05165</CommonTweeter>
+		<Follower>0.0281</Follower>
+		<Friend>0.0302</Friend>
+		<RetweetsText>0.04656</RetweetsText>
+		<ClassifiedTweetText>0.00813</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='14346186' >
+		<TweetText>0.01615</TweetText>
+		<Follower>0.00022</Follower>
+		<Friend>0.02469</Friend>
+		<RetweetsText>0.07173</RetweetsText>
+		<ClassifiedTweetText>0.02037</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15110431' >
+		<TweetText>0.00636</TweetText>
+		<ClassifiedTweetText>0.0151</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15134782' >
+		<TweetText>0.01965</TweetText>
+		<Friend>0.00028</Friend>
+		<RetweetsText>0.05987</RetweetsText>
+		<ClassifiedTweetText>0.01756</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15166546' >
+		<FavTweetText>0.01374</FavTweetText>
+		<TweetText>0.01872</TweetText>
+		<Follower>0.00195</Follower>
+		<RetweetsText>0.07151</RetweetsText>
+		<ClassifiedTweetText>0.0139</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15432645' >
+		<TweetText>0.02198</TweetText>
+		<Follower>0.00031</Follower>
+		<Friend>0.00225</Friend>
+		<RetweetsText>0.06345</RetweetsText>
+		<ClassifiedTweetText>0.023</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15492359' >
+		<FavTweetText>0.02927</FavTweetText>
+		<TweetText>0.00846</TweetText>
+		<RetweetsText>0.02675</RetweetsText>
+		<ClassifiedTweetText>0.00895</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='154970439' >
+		<TweetText>0.00091</TweetText>
+		<CommonTweeter>0.02237</CommonTweeter>
+		<Follower>0.04358</Follower>
+		<Friend>0.02574</Friend>
+		<ClassifiedTweetText>0.02171</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15521075' >
+		<TweetsURLs>0.01917</TweetsURLs>
+		<FavTweetText>0.07118</FavTweetText>
+		<TweetText>0.00835</TweetText>
+		<Follower>0.00021</Follower>
+		<Friend>0.02019</Friend>
+		<ClassifiedTweetText>0.00821</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15593588' >
+		<TweetText>0.005</TweetText>
+		<Follower>0.00302</Follower>
+		<ClassifiedTweetText>0.00566</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='16319797' >
+		<FavTweetText>0.01378</FavTweetText>
+		<TweetText>0.01725</TweetText>
+		<Follower>0.00022</Follower>
+		<RetweetHashtags>0.04343</RetweetHashtags>
+		<Friend>0.00329</Friend>
+		<TweetsHashTags>0.01125</TweetsHashTags>
+		<RetweetsText>0.05927</RetweetsText>
+		<ClassifiedTweetText>0.00991</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='167346791' >
+		<FavTweetText>0.01391</FavTweetText>
+		<TweetText>0.01489</TweetText>
+		<CommonTweeter>0.00387</CommonTweeter>
+		<Follower>0.00617</Follower>
+		<Friend>0.0029</Friend>
+		<ClassifiedTweetText>0.01065</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='16949221' >
+		<TweetsUsernames>0.01671</TweetsUsernames>
+		<FavTweetText>0.07666</FavTweetText>
+		<RetweetUsernames>0.032</RetweetUsernames>
+		<TweetText>0.02621</TweetText>
+		<CommonTweeter>0.01397</CommonTweeter>
+		<Follower>0.00764</Follower>
+		<Friend>0.04196</Friend>
+		<RetweetsText>0.12934</RetweetsText>
+		<ClassifiedTweetText>0.02669</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.02593</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='17149512' >
+		<TweetsURLs>0.028</TweetsURLs>
+		<TweetsUsernames>0.06778</TweetsUsernames>
+		<RetweetUsernames>0.05125</RetweetUsernames>
+		<TweetText>0.07894</TweetText>
+		<CommonTweeter>0.03176</CommonTweeter>
+		<Follower>0.01387</Follower>
+		<RetweetHashtags>0.10536</RetweetHashtags>
+		<Friend>0.10681</Friend>
+		<TweetsHashTags>0.04885</TweetsHashTags>
+		<RetweetsText>0.1369</RetweetsText>
+		<ClassifiedTweetText>0.05652</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='17163609' >
+		<TweetText>0.02851</TweetText>
+		<Friend>0.00875</Friend>
+		<RetweetsText>0.09093</RetweetsText>
+		<ClassifiedTweetText>0.0134</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='17482727' >
+		<FavTweetText>0.01394</FavTweetText>
+		<TweetText>0.03206</TweetText>
+		<Follower>0.00023</Follower>
+		<Friend>0.02529</Friend>
+		<RetweetsText>0.00892</RetweetsText>
+		<ClassifiedTweetText>0.01963</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='18548529' >
+		<TweetText>0.04294</TweetText>
+		<CommonTweeter>0.01683</CommonTweeter>
+		<Follower>0.01802</Follower>
+		<Friend>0.0251</Friend>
+		<RetweetsText>0.04748</RetweetsText>
+		<ClassifiedTweetText>0.02029</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='193373572' >
+		<TweetText>0.04435</TweetText>
+		<CommonTweeter>0.0631</CommonTweeter>
+		<Follower>0.08224</Follower>
+		<Friend>0.06271</Friend>
+		<RetweetsText>0.03454</RetweetsText>
+		<ClassifiedTweetText>0.005</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='19618954' >
+		<TweetText>0.02605</TweetText>
+		<Follower>0.00045</Follower>
+		<RetweetsText>0.06655</RetweetsText>
+		<ClassifiedTweetText>0.01339</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='19652820' >
+		<TweetText>0.0288</TweetText>
+		<Follower>0.00045</Follower>
+		<Friend>0.03353</Friend>
+		<ClassifiedTweetText>0.00357</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='20167623' >
+		<TweetsURLs>0.01823</TweetsURLs>
+		<TweetsUsernames>0.02902</TweetsUsernames>
+		<FavTweetText>0.02106</FavTweetText>
+		<RetweetUsernames>0.03903</RetweetUsernames>
+		<TweetText>0.03216</TweetText>
+		<CommonTweeter>0.01034</CommonTweeter>
+		<Follower>0.00712</Follower>
+		<RetweetHashtags>0.16651</RetweetHashtags>
+		<Friend>0.0317</Friend>
+		<TweetsHashTags>0.12926</TweetsHashTags>
+		<RetweetURLs>0.08498</RetweetURLs>
+		<RetweetsText>0.07292</RetweetsText>
+		<ClassifiedTweetText>0.02993</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.01663</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='20536157' >
+		<TweetsUsernames>0.01074</TweetsUsernames>
+		<FavTweetText>0.03142</FavTweetText>
+		<TweetText>0.02208</TweetText>
+		<Friend>0.00508</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.03883</RetweetsText>
+		<ClassifiedTweetText>0.02191</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.02561</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='21457289' >
+		<TweetText>0.01647</TweetText>
+		<Friend>0.00465</Friend>
+		<RetweetsText>0.04776</RetweetsText>
+		<ClassifiedTweetText>0.00978</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='23731187' >
+		<TweetText>0.00977</TweetText>
+		<Follower>0.00727</Follower>
+		<ClassifiedTweetText>0.00933</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='251908806' >
+		<TweetText>0.00378</TweetText>
+		<Follower>0.10867</Follower>
+		<ClassifiedTweetText>0.00394</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='27978316' >
+		<TweetText>0.02596</TweetText>
+		<Follower>0.00067</Follower>
+		<RetweetsText>0.02292</RetweetsText>
+		<ClassifiedTweetText>0.01351</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='292314390' >
+		<TweetText>0.02141</TweetText>
+		<ClassifiedTweetText>0.04061</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='31053470' >
+		<FavTweetText>0.06745</FavTweetText>
+		<TweetText>0.05376</TweetText>
+		<CommonTweeter>0.00851</CommonTweeter>
+		<Follower>0.01296</Follower>
+		<Friend>0.02548</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.05981</RetweetsText>
+		<ClassifiedTweetText>0.07882</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='315704132' >
+		<FavTweetUsername>0.40947</FavTweetUsername>
+		<TweetText>0.00051</TweetText>
+		<Follower>0.09267</Follower>
+		<Friend>0.01313</Friend>
+	</TargetID>
+	<TargetID id='33838201' >
+		<TweetText>0.0225</TweetText>
+		<Friend>0.04972</Friend>
+		<RetweetsText>0.02999</RetweetsText>
+		<ClassifiedTweetText>0.01274</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='36076870' >
+		<FavTweetText>0.04732</FavTweetText>
+		<TweetText>0.01836</TweetText>
+		<Follower>0.00056</Follower>
+		<Friend>0.01838</Friend>
+		<RetweetsText>0.0236</RetweetsText>
+		<ClassifiedTweetText>0.0108</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='42573217' >
+		<FavTweetText>0.06202</FavTweetText>
+		<TweetText>0.04036</TweetText>
+		<Friend>0.01143</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.04979</RetweetsText>
+		<ClassifiedTweetText>0.02065</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='4519121' >
+		<FavTweetText>0.02884</FavTweetText>
+		<TweetText>0.0274</TweetText>
+		<Friend>0.00399</Friend>
+		<RetweetsText>0.04181</RetweetsText>
+		<ClassifiedTweetText>0.01356</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='50393960' >
+		<TweetText>0.03018</TweetText>
+		<Friend>0.00519</Friend>
+		<RetweetsText>0.01826</RetweetsText>
+		<ClassifiedTweetText>0.012</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='506528882' >
+		<Friend>0.01849</Friend>
+	</TargetID>
+	<TargetID id='59104629' >
+		<TweetText>0.03924</TweetText>
+		<CommonTweeter>0.09666</CommonTweeter>
+		<Follower>0.0493</Follower>
+		<Friend>0.04088</Friend>
+		<RetweetsText>0.03698</RetweetsText>
+		<ClassifiedTweetText>0.03114</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='60937837' >
+		<FavTweetText>0.02506</FavTweetText>
+		<TweetText>0.02118</TweetText>
+		<RetweetsText>0.02876</RetweetsText>
+		<ClassifiedTweetText>0.00631</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='6463042' >
+		<FavTweetText>0.09366</FavTweetText>
+		<TweetText>0.01253</TweetText>
+		<Friend>0.01292</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.03861</RetweetsText>
+		<ClassifiedTweetText>0.00932</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.02071</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='68097618' >
+		<FavTweetText>0.01887</FavTweetText>
+		<TweetText>0.0836</TweetText>
+		<CommonTweeter>0.00864</CommonTweeter>
+		<Follower>0.00822</Follower>
+		<Friend>0.02045</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.0913</RetweetsText>
+		<ClassifiedTweetText>0.12556</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='68639853' >
+		<TweetText>0.02679</TweetText>
+		<ClassifiedTweetText>0.02836</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='69382909' >
+		<FavTweetText>0.03396</FavTweetText>
+		<TweetText>0.02164</TweetText>
+		<RetweetsText>0.01758</RetweetsText>
+		<ClassifiedTweetText>0.02342</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='75035680' >
+		<TweetsUsernames>0.04886</TweetsUsernames>
+		<RetweetUsernames>0.12194</RetweetUsernames>
+		<TweetText>0.01991</TweetText>
+		<CommonTweeter>0.03036</CommonTweeter>
+		<Follower>0.02381</Follower>
+		<Friend>0.0242</Friend>
+		<RetweetsText>0.03811</RetweetsText>
+		<ClassifiedTweetText>0.00422</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='75341204' >
+		<TweetsUsernames>0.01178</TweetsUsernames>
+		<RetweetUsernames>0.01969</RetweetUsernames>
+		<TweetText>0.03674</TweetText>
+		<CommonTweeter>0.03987</CommonTweeter>
+		<Follower>0.02744</Follower>
+		<Friend>0.05296</Friend>
+		<RetweetsText>0.05637</RetweetsText>
+		<ClassifiedTweetText>0.01623</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='783214' >
+		<TweetText>0.01658</TweetText>
+		<RetweetsText>0.06418</RetweetsText>
+		<ClassifiedTweetText>0.01507</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='79659995' >
+		<FavTweetText>0.02457</FavTweetText>
+		<TweetText>0.0304</TweetText>
+		<CommonTweeter>0.04573</CommonTweeter>
+		<Follower>0.05346</Follower>
+		<Friend>0.25251</Friend>
+		<RetweetsText>0.07232</RetweetsText>
+		<ClassifiedTweetText>0.01966</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='84404237' >
+		<TweetText>0.00937</TweetText>
+		<ClassifiedTweetText>0.00389</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='8454562' >
+		<FavTweetText>0.08916</FavTweetText>
+		<TweetText>0.02904</TweetText>
+		<Follower>0.00266</Follower>
+		<RetweetsText>0.06814</RetweetsText>
+		<ClassifiedTweetText>0.02887</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='89635940' >
+		<TweetText>0.00259</TweetText>
+		<CommonTweeter>0.12544</CommonTweeter>
+		<Follower>0.08763</Follower>
+		<Friend>0.10129</Friend>
+	</TargetID>
+	<TargetID id='92746664' >
+		<FavTweetText>0.11065</FavTweetText>
+		<TweetText>0.05676</TweetText>
+		<Follower>0.01006</Follower>
+		<Friend>0.006</Friend>
+		<ClassifiedTweetText>0.02029</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.05241</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='95143772' >
+		<TweetText>0.00799</TweetText>
+		<CommonTweeter>0.09561</CommonTweeter>
+		<Follower>0.09049</Follower>
+		<Friend>0.08104</Friend>
+		<RetweetsText>0.00563</RetweetsText>
+		<ClassifiedTweetText>0.0063</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='95951868' >
+		<TweetText>0.02052</TweetText>
+		<CommonTweeter>0.10935</CommonTweeter>
+		<Follower>0.07113</Follower>
+		<Friend>0.07316</Friend>
+		<RetweetsText>0.02867</RetweetsText>
+		<ClassifiedTweetText>0.01058</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='972651' >
+		<FavTweetText>0.02788</FavTweetText>
+		<TweetText>0.02224</TweetText>
+		<Friend>0.0028</Friend>
+		<RetweetsText>0.03123</RetweetsText>
+		<ClassifiedTweetText>0.01472</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='97542499' >
+		<TweetText>0.04297</TweetText>
+		<Follower>0.00066</Follower>
+		<RetweetsText>0.04618</RetweetsText>
+		<ClassifiedTweetText>0.01335</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='102391063' >
+		<TweetText>0.03485</TweetText>
+		<CommonTweeter>0.17549</CommonTweeter>
+		<Follower>0.11901</Follower>
+		<Friend>0.06088</Friend>
+		<RetweetsText>0.00746</RetweetsText>
+		<ClassifiedTweetText>0.02637</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='108391251' >
+		<FavTweetText>0.06374</FavTweetText>
+		<TweetText>0.01992</TweetText>
+		<Friend>0.00803</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.01886</RetweetsText>
+		<ClassifiedTweetText>0.00876</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.00806</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='111365839' >
+		<TweetText>0.02067</TweetText>
+		<CommonTweeter>0.0939</CommonTweeter>
+		<Follower>0.0995</Follower>
+		<Friend>0.05586</Friend>
+		<ClassifiedTweetText>0.01886</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='113435178' >
+		<FavTweetText>0.02712</FavTweetText>
+		<TweetText>0.01277</TweetText>
+		<Friend>0.00615</Friend>
+		<RetweetsText>0.03771</RetweetsText>
+		<ClassifiedTweetText>0.01123</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='11348282' >
+		<TweetsUsernames>0.01024</TweetsUsernames>
+		<TweetText>0.03776</TweetText>
+		<RetweetsText>0.08245</RetweetsText>
+		<ClassifiedTweetText>0.01654</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='113963' >
+		<FavTweetText>0.06439</FavTweetText>
+		<TweetText>0.02172</TweetText>
+		<Follower>0.00164</Follower>
+		<Friend>0.00809</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.03273</RetweetsText>
+		<ClassifiedTweetText>0.00999</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.02514</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='130458288' >
+		<TweetsURLs>1</TweetsURLs>
+		<FavTweetUserTZ>1</FavTweetUserTZ>
+		<FavTweetUserListsCount>1</FavTweetUserListsCount>
+		<FavTweetScreenName>1</FavTweetScreenName>
+		<TweetsUsernames>1</TweetsUsernames>
+		<FavTweetUserFollowersCount>1</FavTweetUserFollowersCount>
+		<FavTweetUserFriendsCount>1</FavTweetUserFriendsCount>
+		<FavTweetUsername>1</FavTweetUsername>
+		<FavTweetUserId>1</FavTweetUserId>
+		<FavTweetText>1</FavTweetText>
+		<RetweetUsernames>1</RetweetUsernames>
+		<TweetText>1</TweetText>
+		<CommonTweeter>1</CommonTweeter>
+		<FavTweetUserLocation>1</FavTweetUserLocation>
+		<Follower>1</Follower>
+		<RetweetHashtags>1</RetweetHashtags>
+		<Friend>1</Friend>
+		<TweetsHashTags>1</TweetsHashTags>
+		<FavTweetUserStatusesCount>1</FavTweetUserStatusesCount>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetURLs>1</RetweetURLs>
+		<FavTweetUserURL>1</FavTweetUserURL>
+		<RetweetsText>1</RetweetsText>
+		<ClassifiedTweetText>1</ClassifiedTweetText>
+		<FavTweetClassifiedText>1</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='133782966' >
+		<TweetsUsernames>0.01219</TweetsUsernames>
+		<RetweetUsernames>0.02492</RetweetUsernames>
+		<TweetText>0.03021</TweetText>
+		<Friend>0.0119</Friend>
+		<RetweetsText>0.07315</RetweetsText>
+		<ClassifiedTweetText>0.01819</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='135421739' >
+		<TweetText>0.02792</TweetText>
+		<ClassifiedTweetText>0.02555</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='139768884' >
+		<TweetText>0.02292</TweetText>
+		<CommonTweeter>0.11268</CommonTweeter>
+		<Follower>0.08579</Follower>
+		<Friend>0.06969</Friend>
+		<RetweetsText>0.04508</RetweetsText>
+		<ClassifiedTweetText>0.01147</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='140811199' >
+		<FavTweetText>0.06898</FavTweetText>
+		<TweetText>0.02441</TweetText>
+		<CommonTweeter>0.05165</CommonTweeter>
+		<Follower>0.0281</Follower>
+		<Friend>0.0302</Friend>
+		<RetweetsText>0.04656</RetweetsText>
+		<ClassifiedTweetText>0.00813</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='14346186' >
+		<TweetText>0.01615</TweetText>
+		<Follower>0.00022</Follower>
+		<Friend>0.02469</Friend>
+		<RetweetsText>0.07173</RetweetsText>
+		<ClassifiedTweetText>0.02037</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15110431' >
+		<TweetText>0.00636</TweetText>
+		<ClassifiedTweetText>0.0151</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15134782' >
+		<TweetText>0.01965</TweetText>
+		<Friend>0.00028</Friend>
+		<RetweetsText>0.05987</RetweetsText>
+		<ClassifiedTweetText>0.01756</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15166546' >
+		<FavTweetText>0.01374</FavTweetText>
+		<TweetText>0.01872</TweetText>
+		<Follower>0.00195</Follower>
+		<RetweetsText>0.07151</RetweetsText>
+		<ClassifiedTweetText>0.0139</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15432645' >
+		<TweetText>0.02198</TweetText>
+		<Follower>0.00031</Follower>
+		<Friend>0.00225</Friend>
+		<RetweetsText>0.06345</RetweetsText>
+		<ClassifiedTweetText>0.023</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15492359' >
+		<FavTweetText>0.02927</FavTweetText>
+		<TweetText>0.00846</TweetText>
+		<RetweetsText>0.02675</RetweetsText>
+		<ClassifiedTweetText>0.00895</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='154970439' >
+		<TweetText>0.00091</TweetText>
+		<CommonTweeter>0.02237</CommonTweeter>
+		<Follower>0.04358</Follower>
+		<Friend>0.02574</Friend>
+		<ClassifiedTweetText>0.02171</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15521075' >
+		<TweetsURLs>0.01917</TweetsURLs>
+		<FavTweetText>0.07118</FavTweetText>
+		<TweetText>0.00835</TweetText>
+		<Follower>0.00021</Follower>
+		<Friend>0.02019</Friend>
+		<ClassifiedTweetText>0.00821</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15593588' >
+		<TweetText>0.005</TweetText>
+		<Follower>0.00302</Follower>
+		<ClassifiedTweetText>0.00566</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='16319797' >
+		<FavTweetText>0.01378</FavTweetText>
+		<TweetText>0.01725</TweetText>
+		<Follower>0.00022</Follower>
+		<RetweetHashtags>0.04343</RetweetHashtags>
+		<Friend>0.00329</Friend>
+		<TweetsHashTags>0.01125</TweetsHashTags>
+		<RetweetsText>0.05927</RetweetsText>
+		<ClassifiedTweetText>0.00991</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='167346791' >
+		<FavTweetText>0.01391</FavTweetText>
+		<TweetText>0.01489</TweetText>
+		<CommonTweeter>0.00387</CommonTweeter>
+		<Follower>0.00617</Follower>
+		<Friend>0.0029</Friend>
+		<ClassifiedTweetText>0.01065</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='16949221' >
+		<TweetsUsernames>0.01671</TweetsUsernames>
+		<FavTweetText>0.07666</FavTweetText>
+		<RetweetUsernames>0.032</RetweetUsernames>
+		<TweetText>0.02621</TweetText>
+		<CommonTweeter>0.01397</CommonTweeter>
+		<Follower>0.00764</Follower>
+		<Friend>0.04196</Friend>
+		<RetweetsText>0.12934</RetweetsText>
+		<ClassifiedTweetText>0.02669</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.02593</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='17149512' >
+		<TweetsURLs>0.028</TweetsURLs>
+		<TweetsUsernames>0.06778</TweetsUsernames>
+		<RetweetUsernames>0.05125</RetweetUsernames>
+		<TweetText>0.07894</TweetText>
+		<CommonTweeter>0.03176</CommonTweeter>
+		<Follower>0.01387</Follower>
+		<RetweetHashtags>0.10536</RetweetHashtags>
+		<Friend>0.10681</Friend>
+		<TweetsHashTags>0.04885</TweetsHashTags>
+		<RetweetsText>0.1369</RetweetsText>
+		<ClassifiedTweetText>0.05652</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='17163609' >
+		<TweetText>0.02851</TweetText>
+		<Friend>0.00875</Friend>
+		<RetweetsText>0.09093</RetweetsText>
+		<ClassifiedTweetText>0.0134</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='17482727' >
+		<FavTweetText>0.01394</FavTweetText>
+		<TweetText>0.03206</TweetText>
+		<Follower>0.00023</Follower>
+		<Friend>0.02529</Friend>
+		<RetweetsText>0.00892</RetweetsText>
+		<ClassifiedTweetText>0.01963</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='18548529' >
+		<TweetText>0.04294</TweetText>
+		<CommonTweeter>0.01683</CommonTweeter>
+		<Follower>0.01802</Follower>
+		<Friend>0.0251</Friend>
+		<RetweetsText>0.04748</RetweetsText>
+		<ClassifiedTweetText>0.02029</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='193373572' >
+		<TweetText>0.04435</TweetText>
+		<CommonTweeter>0.0631</CommonTweeter>
+		<Follower>0.08224</Follower>
+		<Friend>0.06271</Friend>
+		<RetweetsText>0.03454</RetweetsText>
+		<ClassifiedTweetText>0.005</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='19618954' >
+		<TweetText>0.02605</TweetText>
+		<Follower>0.00045</Follower>
+		<RetweetsText>0.06655</RetweetsText>
+		<ClassifiedTweetText>0.01339</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='19652820' >
+		<TweetText>0.0288</TweetText>
+		<Follower>0.00045</Follower>
+		<Friend>0.03353</Friend>
+		<ClassifiedTweetText>0.00357</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='20167623' >
+		<TweetsURLs>0.01823</TweetsURLs>
+		<TweetsUsernames>0.02902</TweetsUsernames>
+		<FavTweetText>0.02106</FavTweetText>
+		<RetweetUsernames>0.03903</RetweetUsernames>
+		<TweetText>0.03216</TweetText>
+		<CommonTweeter>0.01034</CommonTweeter>
+		<Follower>0.00712</Follower>
+		<RetweetHashtags>0.16651</RetweetHashtags>
+		<Friend>0.0317</Friend>
+		<TweetsHashTags>0.12926</TweetsHashTags>
+		<RetweetURLs>0.08498</RetweetURLs>
+		<RetweetsText>0.07292</RetweetsText>
+		<ClassifiedTweetText>0.02993</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.01663</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='20536157' >
+		<TweetsUsernames>0.01074</TweetsUsernames>
+		<FavTweetText>0.03142</FavTweetText>
+		<TweetText>0.02208</TweetText>
+		<Friend>0.00508</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.03883</RetweetsText>
+		<ClassifiedTweetText>0.02191</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.02561</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='21457289' >
+		<TweetText>0.01647</TweetText>
+		<Friend>0.00465</Friend>
+		<RetweetsText>0.04776</RetweetsText>
+		<ClassifiedTweetText>0.00978</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='23731187' >
+		<TweetText>0.00977</TweetText>
+		<Follower>0.00727</Follower>
+		<ClassifiedTweetText>0.00933</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='251908806' >
+		<TweetText>0.00378</TweetText>
+		<Follower>0.10867</Follower>
+		<ClassifiedTweetText>0.00394</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='27978316' >
+		<TweetText>0.02596</TweetText>
+		<Follower>0.00067</Follower>
+		<RetweetsText>0.02292</RetweetsText>
+		<ClassifiedTweetText>0.01351</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='292314390' >
+		<TweetText>0.02141</TweetText>
+		<ClassifiedTweetText>0.04061</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='31053470' >
+		<FavTweetText>0.06745</FavTweetText>
+		<TweetText>0.05376</TweetText>
+		<CommonTweeter>0.00851</CommonTweeter>
+		<Follower>0.01296</Follower>
+		<Friend>0.02548</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.05981</RetweetsText>
+		<ClassifiedTweetText>0.07882</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='315704132' >
+		<FavTweetUsername>0.40947</FavTweetUsername>
+		<TweetText>0.00051</TweetText>
+		<Follower>0.09267</Follower>
+		<Friend>0.01313</Friend>
+	</TargetID>
+	<TargetID id='33838201' >
+		<TweetText>0.0225</TweetText>
+		<Friend>0.04972</Friend>
+		<RetweetsText>0.02999</RetweetsText>
+		<ClassifiedTweetText>0.01274</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='36076870' >
+		<FavTweetText>0.04732</FavTweetText>
+		<TweetText>0.01836</TweetText>
+		<Follower>0.00056</Follower>
+		<Friend>0.01838</Friend>
+		<RetweetsText>0.0236</RetweetsText>
+		<ClassifiedTweetText>0.0108</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='42573217' >
+		<FavTweetText>0.06202</FavTweetText>
+		<TweetText>0.04036</TweetText>
+		<Friend>0.01143</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.04979</RetweetsText>
+		<ClassifiedTweetText>0.02065</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='4519121' >
+		<FavTweetText>0.02884</FavTweetText>
+		<TweetText>0.0274</TweetText>
+		<Friend>0.00399</Friend>
+		<RetweetsText>0.04181</RetweetsText>
+		<ClassifiedTweetText>0.01356</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='50393960' >
+		<TweetText>0.03018</TweetText>
+		<Friend>0.00519</Friend>
+		<RetweetsText>0.01826</RetweetsText>
+		<ClassifiedTweetText>0.012</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='506528882' >
+		<Friend>0.01849</Friend>
+	</TargetID>
+	<TargetID id='59104629' >
+		<TweetText>0.03924</TweetText>
+		<CommonTweeter>0.09666</CommonTweeter>
+		<Follower>0.0493</Follower>
+		<Friend>0.04088</Friend>
+		<RetweetsText>0.03698</RetweetsText>
+		<ClassifiedTweetText>0.03114</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='60937837' >
+		<FavTweetText>0.02506</FavTweetText>
+		<TweetText>0.02118</TweetText>
+		<RetweetsText>0.02876</RetweetsText>
+		<ClassifiedTweetText>0.00631</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='6463042' >
+		<FavTweetText>0.09366</FavTweetText>
+		<TweetText>0.01253</TweetText>
+		<Friend>0.01292</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.03861</RetweetsText>
+		<ClassifiedTweetText>0.00932</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.02071</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='68097618' >
+		<FavTweetText>0.01887</FavTweetText>
+		<TweetText>0.0836</TweetText>
+		<CommonTweeter>0.00864</CommonTweeter>
+		<Follower>0.00822</Follower>
+		<Friend>0.02045</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.0913</RetweetsText>
+		<ClassifiedTweetText>0.12556</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='68639853' >
+		<TweetText>0.02679</TweetText>
+		<ClassifiedTweetText>0.02836</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='69382909' >
+		<FavTweetText>0.03396</FavTweetText>
+		<TweetText>0.02164</TweetText>
+		<RetweetsText>0.01758</RetweetsText>
+		<ClassifiedTweetText>0.02342</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='75035680' >
+		<TweetsUsernames>0.04886</TweetsUsernames>
+		<RetweetUsernames>0.12194</RetweetUsernames>
+		<TweetText>0.01991</TweetText>
+		<CommonTweeter>0.03036</CommonTweeter>
+		<Follower>0.02381</Follower>
+		<Friend>0.0242</Friend>
+		<RetweetsText>0.03811</RetweetsText>
+		<ClassifiedTweetText>0.00422</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='75341204' >
+		<TweetsUsernames>0.01178</TweetsUsernames>
+		<RetweetUsernames>0.01969</RetweetUsernames>
+		<TweetText>0.03674</TweetText>
+		<CommonTweeter>0.03987</CommonTweeter>
+		<Follower>0.02744</Follower>
+		<Friend>0.05296</Friend>
+		<RetweetsText>0.05637</RetweetsText>
+		<ClassifiedTweetText>0.01623</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='783214' >
+		<TweetText>0.01658</TweetText>
+		<RetweetsText>0.06418</RetweetsText>
+		<ClassifiedTweetText>0.01507</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='79659995' >
+		<FavTweetText>0.02457</FavTweetText>
+		<TweetText>0.0304</TweetText>
+		<CommonTweeter>0.04573</CommonTweeter>
+		<Follower>0.05346</Follower>
+		<Friend>0.25251</Friend>
+		<RetweetsText>0.07232</RetweetsText>
+		<ClassifiedTweetText>0.01966</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='84404237' >
+		<TweetText>0.00937</TweetText>
+		<ClassifiedTweetText>0.00389</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='8454562' >
+		<FavTweetText>0.08916</FavTweetText>
+		<TweetText>0.02904</TweetText>
+		<Follower>0.00266</Follower>
+		<RetweetsText>0.06814</RetweetsText>
+		<ClassifiedTweetText>0.02887</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='89635940' >
+		<TweetText>0.00259</TweetText>
+		<CommonTweeter>0.12544</CommonTweeter>
+		<Follower>0.08763</Follower>
+		<Friend>0.10129</Friend>
+	</TargetID>
+	<TargetID id='92746664' >
+		<FavTweetText>0.11065</FavTweetText>
+		<TweetText>0.05676</TweetText>
+		<Follower>0.01006</Follower>
+		<Friend>0.006</Friend>
+		<ClassifiedTweetText>0.02029</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.05241</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='95143772' >
+		<TweetText>0.00799</TweetText>
+		<CommonTweeter>0.09561</CommonTweeter>
+		<Follower>0.09049</Follower>
+		<Friend>0.08104</Friend>
+		<RetweetsText>0.00563</RetweetsText>
+		<ClassifiedTweetText>0.0063</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='95951868' >
+		<TweetText>0.02052</TweetText>
+		<CommonTweeter>0.10935</CommonTweeter>
+		<Follower>0.07113</Follower>
+		<Friend>0.07316</Friend>
+		<RetweetsText>0.02867</RetweetsText>
+		<ClassifiedTweetText>0.01058</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='972651' >
+		<FavTweetText>0.02788</FavTweetText>
+		<TweetText>0.02224</TweetText>
+		<Friend>0.0028</Friend>
+		<RetweetsText>0.03123</RetweetsText>
+		<ClassifiedTweetText>0.01472</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='97542499' >
+		<TweetText>0.04297</TweetText>
+		<Follower>0.00066</Follower>
+		<RetweetsText>0.04618</RetweetsText>
+		<ClassifiedTweetText>0.01335</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='102391063' >
+		<TweetText>0.03485</TweetText>
+		<CommonTweeter>0.17549</CommonTweeter>
+		<Follower>0.11901</Follower>
+		<Friend>0.06088</Friend>
+		<RetweetsText>0.00746</RetweetsText>
+		<ClassifiedTweetText>0.02637</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='108391251' >
+		<FavTweetText>0.06374</FavTweetText>
+		<TweetText>0.01992</TweetText>
+		<Friend>0.00803</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.01886</RetweetsText>
+		<ClassifiedTweetText>0.00876</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.00806</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='111365839' >
+		<TweetText>0.02067</TweetText>
+		<CommonTweeter>0.0939</CommonTweeter>
+		<Follower>0.0995</Follower>
+		<Friend>0.05586</Friend>
+		<ClassifiedTweetText>0.01886</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='113435178' >
+		<FavTweetText>0.02712</FavTweetText>
+		<TweetText>0.01277</TweetText>
+		<Friend>0.00615</Friend>
+		<RetweetsText>0.03771</RetweetsText>
+		<ClassifiedTweetText>0.01123</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='113963' >
+		<FavTweetText>0.06439</FavTweetText>
+		<TweetText>0.02172</TweetText>
+		<Follower>0.00164</Follower>
+		<Friend>0.00809</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.03273</RetweetsText>
+		<ClassifiedTweetText>0.00999</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.02514</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='130458288' >
+		<TweetsURLs>1</TweetsURLs>
+		<FavTweetUserTZ>1</FavTweetUserTZ>
+		<FavTweetUserListsCount>1</FavTweetUserListsCount>
+		<FavTweetScreenName>1</FavTweetScreenName>
+		<TweetsUsernames>1</TweetsUsernames>
+		<FavTweetUserFollowersCount>1</FavTweetUserFollowersCount>
+		<FavTweetUserFriendsCount>1</FavTweetUserFriendsCount>
+		<FavTweetUsername>1</FavTweetUsername>
+		<FavTweetUserId>1</FavTweetUserId>
+		<FavTweetText>1</FavTweetText>
+		<RetweetUsernames>1</RetweetUsernames>
+		<TweetText>1</TweetText>
+		<CommonTweeter>1</CommonTweeter>
+		<FavTweetUserLocation>1</FavTweetUserLocation>
+		<Follower>1</Follower>
+		<RetweetHashtags>1</RetweetHashtags>
+		<Friend>1</Friend>
+		<TweetsHashTags>1</TweetsHashTags>
+		<FavTweetUserStatusesCount>1</FavTweetUserStatusesCount>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetURLs>1</RetweetURLs>
+		<FavTweetUserURL>1</FavTweetUserURL>
+		<RetweetsText>1</RetweetsText>
+		<ClassifiedTweetText>1</ClassifiedTweetText>
+		<FavTweetClassifiedText>1</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='133782966' >
+		<TweetsUsernames>0.01219</TweetsUsernames>
+		<RetweetUsernames>0.02492</RetweetUsernames>
+		<TweetText>0.03021</TweetText>
+		<Friend>0.0119</Friend>
+		<RetweetsText>0.07315</RetweetsText>
+		<ClassifiedTweetText>0.01819</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='135421739' >
+		<TweetText>0.02792</TweetText>
+		<ClassifiedTweetText>0.02555</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='139768884' >
+		<TweetText>0.02292</TweetText>
+		<CommonTweeter>0.11268</CommonTweeter>
+		<Follower>0.08579</Follower>
+		<Friend>0.06969</Friend>
+		<RetweetsText>0.04508</RetweetsText>
+		<ClassifiedTweetText>0.01147</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='140811199' >
+		<FavTweetText>0.06898</FavTweetText>
+		<TweetText>0.02441</TweetText>
+		<CommonTweeter>0.05165</CommonTweeter>
+		<Follower>0.0281</Follower>
+		<Friend>0.0302</Friend>
+		<RetweetsText>0.04656</RetweetsText>
+		<ClassifiedTweetText>0.00813</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='14346186' >
+		<TweetText>0.01615</TweetText>
+		<Follower>0.00022</Follower>
+		<Friend>0.02469</Friend>
+		<RetweetsText>0.07173</RetweetsText>
+		<ClassifiedTweetText>0.02037</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15110431' >
+		<TweetText>0.00636</TweetText>
+		<ClassifiedTweetText>0.0151</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15166546' >
+		<FavTweetText>0.01374</FavTweetText>
+		<TweetText>0.01872</TweetText>
+		<Follower>0.00195</Follower>
+		<RetweetsText>0.07151</RetweetsText>
+		<ClassifiedTweetText>0.0139</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15432645' >
+		<TweetText>0.02198</TweetText>
+		<Follower>0.00031</Follower>
+		<Friend>0.00225</Friend>
+		<RetweetsText>0.06345</RetweetsText>
+		<ClassifiedTweetText>0.023</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15492359' >
+		<FavTweetText>0.02927</FavTweetText>
+		<TweetText>0.00846</TweetText>
+		<RetweetsText>0.02675</RetweetsText>
+		<ClassifiedTweetText>0.00895</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='154970439' >
+		<TweetText>0.00091</TweetText>
+		<CommonTweeter>0.02237</CommonTweeter>
+		<Follower>0.04358</Follower>
+		<Friend>0.02574</Friend>
+		<ClassifiedTweetText>0.02171</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15521075' >
+		<TweetsURLs>0.01917</TweetsURLs>
+		<FavTweetText>0.07118</FavTweetText>
+		<TweetText>0.00835</TweetText>
+		<Follower>0.00021</Follower>
+		<Friend>0.02019</Friend>
+		<ClassifiedTweetText>0.00821</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15593588' >
+		<TweetText>0.005</TweetText>
+		<Follower>0.00302</Follower>
+		<ClassifiedTweetText>0.00566</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='16319797' >
+		<FavTweetText>0.01378</FavTweetText>
+		<TweetText>0.01725</TweetText>
+		<Follower>0.00022</Follower>
+		<RetweetHashtags>0.04343</RetweetHashtags>
+		<Friend>0.00329</Friend>
+		<TweetsHashTags>0.01125</TweetsHashTags>
+		<RetweetsText>0.05927</RetweetsText>
+		<ClassifiedTweetText>0.00991</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='167346791' >
+		<FavTweetText>0.01391</FavTweetText>
+		<TweetText>0.01489</TweetText>
+		<CommonTweeter>0.00387</CommonTweeter>
+		<Follower>0.00617</Follower>
+		<Friend>0.0029</Friend>
+		<ClassifiedTweetText>0.01065</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='16949221' >
+		<TweetsUsernames>0.01671</TweetsUsernames>
+		<FavTweetText>0.07666</FavTweetText>
+		<RetweetUsernames>0.032</RetweetUsernames>
+		<TweetText>0.02621</TweetText>
+		<CommonTweeter>0.01397</CommonTweeter>
+		<Follower>0.00764</Follower>
+		<Friend>0.04196</Friend>
+		<RetweetsText>0.12934</RetweetsText>
+		<ClassifiedTweetText>0.02669</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.02593</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='17149512' >
+		<TweetsURLs>0.028</TweetsURLs>
+		<TweetsUsernames>0.06778</TweetsUsernames>
+		<RetweetUsernames>0.05125</RetweetUsernames>
+		<TweetText>0.07894</TweetText>
+		<CommonTweeter>0.03176</CommonTweeter>
+		<Follower>0.01387</Follower>
+		<RetweetHashtags>0.10536</RetweetHashtags>
+		<Friend>0.10681</Friend>
+		<TweetsHashTags>0.04885</TweetsHashTags>
+		<RetweetsText>0.1369</RetweetsText>
+		<ClassifiedTweetText>0.05652</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='17163609' >
+		<TweetText>0.02851</TweetText>
+		<Friend>0.00875</Friend>
+		<RetweetsText>0.09093</RetweetsText>
+		<ClassifiedTweetText>0.0134</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='17482727' >
+		<FavTweetText>0.01394</FavTweetText>
+		<TweetText>0.03206</TweetText>
+		<Follower>0.00023</Follower>
+		<Friend>0.02529</Friend>
+		<RetweetsText>0.00892</RetweetsText>
+		<ClassifiedTweetText>0.01963</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='18548529' >
+		<TweetText>0.04294</TweetText>
+		<CommonTweeter>0.01683</CommonTweeter>
+		<Follower>0.01802</Follower>
+		<Friend>0.0251</Friend>
+		<RetweetsText>0.04748</RetweetsText>
+		<ClassifiedTweetText>0.02029</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='193373572' >
+		<TweetText>0.04435</TweetText>
+		<CommonTweeter>0.0631</CommonTweeter>
+		<Follower>0.08224</Follower>
+		<Friend>0.06271</Friend>
+		<RetweetsText>0.03454</RetweetsText>
+		<ClassifiedTweetText>0.005</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='19618954' >
+		<TweetText>0.02605</TweetText>
+		<Follower>0.00045</Follower>
+		<RetweetsText>0.06655</RetweetsText>
+		<ClassifiedTweetText>0.01339</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='19652820' >
+		<TweetText>0.0288</TweetText>
+		<Follower>0.00045</Follower>
+		<Friend>0.03353</Friend>
+		<ClassifiedTweetText>0.00357</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='20167623' >
+		<TweetsURLs>0.01823</TweetsURLs>
+		<TweetsUsernames>0.02902</TweetsUsernames>
+		<FavTweetText>0.02106</FavTweetText>
+		<RetweetUsernames>0.03903</RetweetUsernames>
+		<TweetText>0.03216</TweetText>
+		<CommonTweeter>0.01034</CommonTweeter>
+		<Follower>0.00712</Follower>
+		<RetweetHashtags>0.16651</RetweetHashtags>
+		<Friend>0.0317</Friend>
+		<TweetsHashTags>0.12926</TweetsHashTags>
+		<RetweetURLs>0.08498</RetweetURLs>
+		<RetweetsText>0.07292</RetweetsText>
+		<ClassifiedTweetText>0.02993</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.01663</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='20536157' >
+		<TweetsUsernames>0.01074</TweetsUsernames>
+		<FavTweetText>0.03142</FavTweetText>
+		<TweetText>0.02208</TweetText>
+		<Friend>0.00508</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.03883</RetweetsText>
+		<ClassifiedTweetText>0.02191</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.02561</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='21457289' >
+		<TweetText>0.01647</TweetText>
+		<Friend>0.00465</Friend>
+		<RetweetsText>0.04776</RetweetsText>
+		<ClassifiedTweetText>0.00978</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='23731187' >
+		<TweetText>0.00977</TweetText>
+		<Follower>0.00727</Follower>
+		<ClassifiedTweetText>0.00933</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='251908806' >
+		<TweetText>0.00378</TweetText>
+		<Follower>0.10867</Follower>
+		<ClassifiedTweetText>0.00394</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='27978316' >
+		<TweetText>0.02596</TweetText>
+		<Follower>0.00067</Follower>
+		<RetweetsText>0.02292</RetweetsText>
+		<ClassifiedTweetText>0.01351</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='292314390' >
+		<TweetText>0.02141</TweetText>
+		<ClassifiedTweetText>0.04061</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='31053470' >
+		<FavTweetText>0.06745</FavTweetText>
+		<TweetText>0.05376</TweetText>
+		<CommonTweeter>0.00851</CommonTweeter>
+		<Follower>0.01296</Follower>
+		<Friend>0.02548</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.05981</RetweetsText>
+		<ClassifiedTweetText>0.07882</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='315704132' >
+		<FavTweetUsername>0.40947</FavTweetUsername>
+		<TweetText>0.00051</TweetText>
+		<Follower>0.09267</Follower>
+		<Friend>0.01313</Friend>
+	</TargetID>
+	<TargetID id='33838201' >
+		<TweetText>0.0225</TweetText>
+		<Friend>0.04972</Friend>
+		<RetweetsText>0.02999</RetweetsText>
+		<ClassifiedTweetText>0.01274</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='36076870' >
+		<FavTweetText>0.04732</FavTweetText>
+		<TweetText>0.01836</TweetText>
+		<Follower>0.00056</Follower>
+		<Friend>0.01838</Friend>
+		<RetweetsText>0.0236</RetweetsText>
+		<ClassifiedTweetText>0.0108</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='42573217' >
+		<FavTweetText>0.06202</FavTweetText>
+		<TweetText>0.04036</TweetText>
+		<Friend>0.01143</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.04979</RetweetsText>
+		<ClassifiedTweetText>0.02065</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='4519121' >
+		<FavTweetText>0.02884</FavTweetText>
+		<TweetText>0.0274</TweetText>
+		<Friend>0.00399</Friend>
+		<RetweetsText>0.04181</RetweetsText>
+		<ClassifiedTweetText>0.01356</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='50393960' >
+		<TweetText>0.03018</TweetText>
+		<Friend>0.00519</Friend>
+		<RetweetsText>0.01826</RetweetsText>
+		<ClassifiedTweetText>0.012</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='506528882' >
+		<Friend>0.01849</Friend>
+	</TargetID>
+	<TargetID id='59104629' >
+		<TweetText>0.03924</TweetText>
+		<CommonTweeter>0.09666</CommonTweeter>
+		<Follower>0.0493</Follower>
+		<Friend>0.04088</Friend>
+		<RetweetsText>0.03698</RetweetsText>
+		<ClassifiedTweetText>0.03114</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='60937837' >
+		<FavTweetText>0.02506</FavTweetText>
+		<TweetText>0.02118</TweetText>
+		<RetweetsText>0.02876</RetweetsText>
+		<ClassifiedTweetText>0.00631</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='6463042' >
+		<FavTweetText>0.09366</FavTweetText>
+		<TweetText>0.01253</TweetText>
+		<Friend>0.01292</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.03861</RetweetsText>
+		<ClassifiedTweetText>0.00932</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.02071</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='68097618' >
+		<FavTweetText>0.01887</FavTweetText>
+		<TweetText>0.0836</TweetText>
+		<CommonTweeter>0.00864</CommonTweeter>
+		<Follower>0.00822</Follower>
+		<Friend>0.02045</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.0913</RetweetsText>
+		<ClassifiedTweetText>0.12556</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='68639853' >
+		<TweetText>0.02679</TweetText>
+		<ClassifiedTweetText>0.02836</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='69382909' >
+		<FavTweetText>0.03396</FavTweetText>
+		<TweetText>0.02164</TweetText>
+		<RetweetsText>0.01758</RetweetsText>
+		<ClassifiedTweetText>0.02342</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='75035680' >
+		<TweetsUsernames>0.04886</TweetsUsernames>
+		<RetweetUsernames>0.12194</RetweetUsernames>
+		<TweetText>0.01991</TweetText>
+		<CommonTweeter>0.03036</CommonTweeter>
+		<Follower>0.02381</Follower>
+		<Friend>0.0242</Friend>
+		<RetweetsText>0.03811</RetweetsText>
+		<ClassifiedTweetText>0.00422</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='75341204' >
+		<TweetsUsernames>0.01178</TweetsUsernames>
+		<RetweetUsernames>0.01969</RetweetUsernames>
+		<TweetText>0.03674</TweetText>
+		<CommonTweeter>0.03987</CommonTweeter>
+		<Follower>0.02744</Follower>
+		<Friend>0.05296</Friend>
+		<RetweetsText>0.05637</RetweetsText>
+		<ClassifiedTweetText>0.01623</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='79659995' >
+		<FavTweetText>0.02457</FavTweetText>
+		<TweetText>0.0304</TweetText>
+		<CommonTweeter>0.04573</CommonTweeter>
+		<Follower>0.05346</Follower>
+		<Friend>0.25251</Friend>
+		<RetweetsText>0.07232</RetweetsText>
+		<ClassifiedTweetText>0.01966</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='84404237' >
+		<TweetText>0.00937</TweetText>
+		<ClassifiedTweetText>0.00389</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='8454562' >
+		<FavTweetText>0.08916</FavTweetText>
+		<TweetText>0.02904</TweetText>
+		<Follower>0.00266</Follower>
+		<RetweetsText>0.06814</RetweetsText>
+		<ClassifiedTweetText>0.02887</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='89635940' >
+		<TweetText>0.00259</TweetText>
+		<CommonTweeter>0.12544</CommonTweeter>
+		<Follower>0.08763</Follower>
+		<Friend>0.10129</Friend>
+	</TargetID>
+	<TargetID id='92746664' >
+		<FavTweetText>0.11065</FavTweetText>
+		<TweetText>0.05676</TweetText>
+		<Follower>0.01006</Follower>
+		<Friend>0.006</Friend>
+		<ClassifiedTweetText>0.02029</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.05241</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='95143772' >
+		<TweetText>0.00799</TweetText>
+		<CommonTweeter>0.09561</CommonTweeter>
+		<Follower>0.09049</Follower>
+		<Friend>0.08104</Friend>
+		<RetweetsText>0.00563</RetweetsText>
+		<ClassifiedTweetText>0.0063</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='95951868' >
+		<TweetText>0.02052</TweetText>
+		<CommonTweeter>0.10935</CommonTweeter>
+		<Follower>0.07113</Follower>
+		<Friend>0.07316</Friend>
+		<RetweetsText>0.02867</RetweetsText>
+		<ClassifiedTweetText>0.01058</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='972651' >
+		<FavTweetText>0.02788</FavTweetText>
+		<TweetText>0.02224</TweetText>
+		<Friend>0.0028</Friend>
+		<RetweetsText>0.03123</RetweetsText>
+		<ClassifiedTweetText>0.01472</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='102391063' >
+		<TweetText>0.03485</TweetText>
+		<CommonTweeter>0.17549</CommonTweeter>
+		<Follower>0.11901</Follower>
+		<Friend>0.06088</Friend>
+		<RetweetsText>0.00746</RetweetsText>
+		<ClassifiedTweetText>0.02637</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='108391251' >
+		<FavTweetText>0.06374</FavTweetText>
+		<TweetText>0.01992</TweetText>
+		<Friend>0.00803</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.01886</RetweetsText>
+		<ClassifiedTweetText>0.00876</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.00806</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='111365839' >
+		<TweetText>0.02067</TweetText>
+		<CommonTweeter>0.0939</CommonTweeter>
+		<Follower>0.0995</Follower>
+		<Friend>0.05586</Friend>
+		<ClassifiedTweetText>0.01886</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='113435178' >
+		<FavTweetText>0.02712</FavTweetText>
+		<TweetText>0.01277</TweetText>
+		<Friend>0.00615</Friend>
+		<RetweetsText>0.03771</RetweetsText>
+		<ClassifiedTweetText>0.01123</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='11348282' >
+		<TweetsUsernames>0.01024</TweetsUsernames>
+		<TweetText>0.03776</TweetText>
+		<RetweetsText>0.08245</RetweetsText>
+		<ClassifiedTweetText>0.01654</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='113963' >
+		<FavTweetText>0.06439</FavTweetText>
+		<TweetText>0.02172</TweetText>
+		<Follower>0.00164</Follower>
+		<Friend>0.00809</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.03273</RetweetsText>
+		<ClassifiedTweetText>0.00999</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.02514</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='130458288' >
+		<TweetsURLs>1</TweetsURLs>
+		<FavTweetUserTZ>1</FavTweetUserTZ>
+		<FavTweetUserListsCount>1</FavTweetUserListsCount>
+		<FavTweetScreenName>1</FavTweetScreenName>
+		<TweetsUsernames>1</TweetsUsernames>
+		<FavTweetUserFollowersCount>1</FavTweetUserFollowersCount>
+		<FavTweetUserFriendsCount>1</FavTweetUserFriendsCount>
+		<FavTweetUsername>1</FavTweetUsername>
+		<FavTweetUserId>1</FavTweetUserId>
+		<FavTweetText>1</FavTweetText>
+		<RetweetUsernames>1</RetweetUsernames>
+		<TweetText>1</TweetText>
+		<CommonTweeter>1</CommonTweeter>
+		<FavTweetUserLocation>1</FavTweetUserLocation>
+		<Follower>1</Follower>
+		<RetweetHashtags>1</RetweetHashtags>
+		<Friend>1</Friend>
+		<TweetsHashTags>1</TweetsHashTags>
+		<FavTweetUserStatusesCount>1</FavTweetUserStatusesCount>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetURLs>1</RetweetURLs>
+		<FavTweetUserURL>1</FavTweetUserURL>
+		<RetweetsText>1</RetweetsText>
+		<ClassifiedTweetText>1</ClassifiedTweetText>
+		<FavTweetClassifiedText>1</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='133782966' >
+		<TweetsUsernames>0.01219</TweetsUsernames>
+		<RetweetUsernames>0.02492</RetweetUsernames>
+		<TweetText>0.03021</TweetText>
+		<Friend>0.0119</Friend>
+		<RetweetsText>0.07315</RetweetsText>
+		<ClassifiedTweetText>0.01819</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='135421739' >
+		<TweetText>0.02792</TweetText>
+		<ClassifiedTweetText>0.02555</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='139768884' >
+		<TweetText>0.02292</TweetText>
+		<CommonTweeter>0.11268</CommonTweeter>
+		<Follower>0.08579</Follower>
+		<Friend>0.06969</Friend>
+		<RetweetsText>0.04508</RetweetsText>
+		<ClassifiedTweetText>0.01147</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='140811199' >
+		<FavTweetText>0.06898</FavTweetText>
+		<TweetText>0.02441</TweetText>
+		<CommonTweeter>0.05165</CommonTweeter>
+		<Follower>0.0281</Follower>
+		<Friend>0.0302</Friend>
+		<RetweetsText>0.04656</RetweetsText>
+		<ClassifiedTweetText>0.00813</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='14346186' >
+		<TweetText>0.01615</TweetText>
+		<Follower>0.00022</Follower>
+		<Friend>0.02469</Friend>
+		<RetweetsText>0.07173</RetweetsText>
+		<ClassifiedTweetText>0.02037</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15110431' >
+		<TweetText>0.00636</TweetText>
+		<ClassifiedTweetText>0.0151</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15134782' >
+		<TweetText>0.01965</TweetText>
+		<Friend>0.00028</Friend>
+		<RetweetsText>0.05987</RetweetsText>
+		<ClassifiedTweetText>0.01756</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15166546' >
+		<FavTweetText>0.01374</FavTweetText>
+		<TweetText>0.01872</TweetText>
+		<Follower>0.00195</Follower>
+		<RetweetsText>0.07151</RetweetsText>
+		<ClassifiedTweetText>0.0139</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15432645' >
+		<TweetText>0.02198</TweetText>
+		<Follower>0.00031</Follower>
+		<Friend>0.00225</Friend>
+		<RetweetsText>0.06345</RetweetsText>
+		<ClassifiedTweetText>0.023</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15492359' >
+		<FavTweetText>0.02927</FavTweetText>
+		<TweetText>0.00846</TweetText>
+		<RetweetsText>0.02675</RetweetsText>
+		<ClassifiedTweetText>0.00895</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='154970439' >
+		<TweetText>0.00091</TweetText>
+		<CommonTweeter>0.02237</CommonTweeter>
+		<Follower>0.04358</Follower>
+		<Friend>0.02574</Friend>
+		<ClassifiedTweetText>0.02171</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15521075' >
+		<TweetsURLs>0.01917</TweetsURLs>
+		<FavTweetText>0.07118</FavTweetText>
+		<TweetText>0.00835</TweetText>
+		<Follower>0.00021</Follower>
+		<Friend>0.02019</Friend>
+		<ClassifiedTweetText>0.00821</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15593588' >
+		<TweetText>0.005</TweetText>
+		<Follower>0.00302</Follower>
+		<ClassifiedTweetText>0.00566</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='16319797' >
+		<FavTweetText>0.01378</FavTweetText>
+		<TweetText>0.01725</TweetText>
+		<Follower>0.00022</Follower>
+		<RetweetHashtags>0.04343</RetweetHashtags>
+		<Friend>0.00329</Friend>
+		<TweetsHashTags>0.01125</TweetsHashTags>
+		<RetweetsText>0.05927</RetweetsText>
+		<ClassifiedTweetText>0.00991</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='167346791' >
+		<FavTweetText>0.01391</FavTweetText>
+		<TweetText>0.01489</TweetText>
+		<CommonTweeter>0.00387</CommonTweeter>
+		<Follower>0.00617</Follower>
+		<Friend>0.0029</Friend>
+		<ClassifiedTweetText>0.01065</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='16949221' >
+		<TweetsUsernames>0.01671</TweetsUsernames>
+		<FavTweetText>0.07666</FavTweetText>
+		<RetweetUsernames>0.032</RetweetUsernames>
+		<TweetText>0.02621</TweetText>
+		<CommonTweeter>0.01397</CommonTweeter>
+		<Follower>0.00764</Follower>
+		<Friend>0.04196</Friend>
+		<RetweetsText>0.12934</RetweetsText>
+		<ClassifiedTweetText>0.02669</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.02593</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='17149512' >
+		<TweetsURLs>0.028</TweetsURLs>
+		<TweetsUsernames>0.06778</TweetsUsernames>
+		<RetweetUsernames>0.05125</RetweetUsernames>
+		<TweetText>0.07894</TweetText>
+		<CommonTweeter>0.03176</CommonTweeter>
+		<Follower>0.01387</Follower>
+		<RetweetHashtags>0.10536</RetweetHashtags>
+		<Friend>0.10681</Friend>
+		<TweetsHashTags>0.04885</TweetsHashTags>
+		<RetweetsText>0.1369</RetweetsText>
+		<ClassifiedTweetText>0.05652</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='17163609' >
+		<TweetText>0.02851</TweetText>
+		<Friend>0.00875</Friend>
+		<RetweetsText>0.09093</RetweetsText>
+		<ClassifiedTweetText>0.0134</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='17482727' >
+		<FavTweetText>0.01394</FavTweetText>
+		<TweetText>0.03206</TweetText>
+		<Follower>0.00023</Follower>
+		<Friend>0.02529</Friend>
+		<RetweetsText>0.00892</RetweetsText>
+		<ClassifiedTweetText>0.01963</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='18548529' >
+		<TweetText>0.04294</TweetText>
+		<CommonTweeter>0.01683</CommonTweeter>
+		<Follower>0.01802</Follower>
+		<Friend>0.0251</Friend>
+		<RetweetsText>0.04748</RetweetsText>
+		<ClassifiedTweetText>0.02029</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='193373572' >
+		<TweetText>0.04435</TweetText>
+		<CommonTweeter>0.0631</CommonTweeter>
+		<Follower>0.08224</Follower>
+		<Friend>0.06271</Friend>
+		<RetweetsText>0.03454</RetweetsText>
+		<ClassifiedTweetText>0.005</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='19618954' >
+		<TweetText>0.02605</TweetText>
+		<Follower>0.00045</Follower>
+		<RetweetsText>0.06655</RetweetsText>
+		<ClassifiedTweetText>0.01339</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='19652820' >
+		<TweetText>0.0288</TweetText>
+		<Follower>0.00045</Follower>
+		<Friend>0.03353</Friend>
+		<ClassifiedTweetText>0.00357</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='20167623' >
+		<TweetsURLs>0.01823</TweetsURLs>
+		<TweetsUsernames>0.02902</TweetsUsernames>
+		<FavTweetText>0.02106</FavTweetText>
+		<RetweetUsernames>0.03903</RetweetUsernames>
+		<TweetText>0.03216</TweetText>
+		<CommonTweeter>0.01034</CommonTweeter>
+		<Follower>0.00712</Follower>
+		<RetweetHashtags>0.16651</RetweetHashtags>
+		<Friend>0.0317</Friend>
+		<TweetsHashTags>0.12926</TweetsHashTags>
+		<RetweetURLs>0.08498</RetweetURLs>
+		<RetweetsText>0.07292</RetweetsText>
+		<ClassifiedTweetText>0.02993</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.01663</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='20536157' >
+		<TweetsUsernames>0.01074</TweetsUsernames>
+		<FavTweetText>0.03142</FavTweetText>
+		<TweetText>0.02208</TweetText>
+		<Friend>0.00508</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.03883</RetweetsText>
+		<ClassifiedTweetText>0.02191</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.02561</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='21457289' >
+		<TweetText>0.01647</TweetText>
+		<Friend>0.00465</Friend>
+		<RetweetsText>0.04776</RetweetsText>
+		<ClassifiedTweetText>0.00978</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='23731187' >
+		<TweetText>0.00977</TweetText>
+		<Follower>0.00727</Follower>
+		<ClassifiedTweetText>0.00933</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='251908806' >
+		<TweetText>0.00378</TweetText>
+		<Follower>0.10867</Follower>
+		<ClassifiedTweetText>0.00394</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='27978316' >
+		<TweetText>0.02596</TweetText>
+		<Follower>0.00067</Follower>
+		<RetweetsText>0.02292</RetweetsText>
+		<ClassifiedTweetText>0.01351</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='292314390' >
+		<TweetText>0.02141</TweetText>
+		<ClassifiedTweetText>0.04061</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='31053470' >
+		<FavTweetText>0.06745</FavTweetText>
+		<TweetText>0.05376</TweetText>
+		<CommonTweeter>0.00851</CommonTweeter>
+		<Follower>0.01296</Follower>
+		<Friend>0.02548</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.05981</RetweetsText>
+		<ClassifiedTweetText>0.07882</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='315704132' >
+		<FavTweetUsername>0.40947</FavTweetUsername>
+		<TweetText>0.00051</TweetText>
+		<Follower>0.09267</Follower>
+		<Friend>0.01313</Friend>
+	</TargetID>
+	<TargetID id='33838201' >
+		<TweetText>0.0225</TweetText>
+		<Friend>0.04972</Friend>
+		<RetweetsText>0.02999</RetweetsText>
+		<ClassifiedTweetText>0.01274</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='36076870' >
+		<FavTweetText>0.04732</FavTweetText>
+		<TweetText>0.01836</TweetText>
+		<Follower>0.00056</Follower>
+		<Friend>0.01838</Friend>
+		<RetweetsText>0.0236</RetweetsText>
+		<ClassifiedTweetText>0.0108</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='42573217' >
+		<FavTweetText>0.06202</FavTweetText>
+		<TweetText>0.04036</TweetText>
+		<Friend>0.01143</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.04979</RetweetsText>
+		<ClassifiedTweetText>0.02065</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='4519121' >
+		<FavTweetText>0.02884</FavTweetText>
+		<TweetText>0.0274</TweetText>
+		<Friend>0.00399</Friend>
+		<RetweetsText>0.04181</RetweetsText>
+		<ClassifiedTweetText>0.01356</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='50393960' >
+		<TweetText>0.03018</TweetText>
+		<Friend>0.00519</Friend>
+		<RetweetsText>0.01826</RetweetsText>
+		<ClassifiedTweetText>0.012</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='506528882' >
+		<Friend>0.01849</Friend>
+	</TargetID>
+	<TargetID id='59104629' >
+		<TweetText>0.03924</TweetText>
+		<CommonTweeter>0.09666</CommonTweeter>
+		<Follower>0.0493</Follower>
+		<Friend>0.04088</Friend>
+		<RetweetsText>0.03698</RetweetsText>
+		<ClassifiedTweetText>0.03114</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='60937837' >
+		<FavTweetText>0.02506</FavTweetText>
+		<TweetText>0.02118</TweetText>
+		<RetweetsText>0.02876</RetweetsText>
+		<ClassifiedTweetText>0.00631</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='6463042' >
+		<FavTweetText>0.09366</FavTweetText>
+		<TweetText>0.01253</TweetText>
+		<Friend>0.01292</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.03861</RetweetsText>
+		<ClassifiedTweetText>0.00932</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.02071</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='68097618' >
+		<FavTweetText>0.01887</FavTweetText>
+		<TweetText>0.0836</TweetText>
+		<CommonTweeter>0.00864</CommonTweeter>
+		<Follower>0.00822</Follower>
+		<Friend>0.02045</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.0913</RetweetsText>
+		<ClassifiedTweetText>0.12556</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='68639853' >
+		<TweetText>0.02679</TweetText>
+		<ClassifiedTweetText>0.02836</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='69382909' >
+		<FavTweetText>0.03396</FavTweetText>
+		<TweetText>0.02164</TweetText>
+		<RetweetsText>0.01758</RetweetsText>
+		<ClassifiedTweetText>0.02342</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='75035680' >
+		<TweetsUsernames>0.04886</TweetsUsernames>
+		<RetweetUsernames>0.12194</RetweetUsernames>
+		<TweetText>0.01991</TweetText>
+		<CommonTweeter>0.03036</CommonTweeter>
+		<Follower>0.02381</Follower>
+		<Friend>0.0242</Friend>
+		<RetweetsText>0.03811</RetweetsText>
+		<ClassifiedTweetText>0.00422</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='75341204' >
+		<TweetsUsernames>0.01178</TweetsUsernames>
+		<RetweetUsernames>0.01969</RetweetUsernames>
+		<TweetText>0.03674</TweetText>
+		<CommonTweeter>0.03987</CommonTweeter>
+		<Follower>0.02744</Follower>
+		<Friend>0.05296</Friend>
+		<RetweetsText>0.05637</RetweetsText>
+		<ClassifiedTweetText>0.01623</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='783214' >
+		<TweetText>0.01658</TweetText>
+		<RetweetsText>0.06418</RetweetsText>
+		<ClassifiedTweetText>0.01507</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='79659995' >
+		<FavTweetText>0.02457</FavTweetText>
+		<TweetText>0.0304</TweetText>
+		<CommonTweeter>0.04573</CommonTweeter>
+		<Follower>0.05346</Follower>
+		<Friend>0.25251</Friend>
+		<RetweetsText>0.07232</RetweetsText>
+		<ClassifiedTweetText>0.01966</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='84404237' >
+		<TweetText>0.00937</TweetText>
+		<ClassifiedTweetText>0.00389</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='8454562' >
+		<FavTweetText>0.08916</FavTweetText>
+		<TweetText>0.02904</TweetText>
+		<Follower>0.00266</Follower>
+		<RetweetsText>0.06814</RetweetsText>
+		<ClassifiedTweetText>0.02887</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='89635940' >
+		<TweetText>0.00259</TweetText>
+		<CommonTweeter>0.12544</CommonTweeter>
+		<Follower>0.08763</Follower>
+		<Friend>0.10129</Friend>
+	</TargetID>
+	<TargetID id='92746664' >
+		<FavTweetText>0.11065</FavTweetText>
+		<TweetText>0.05676</TweetText>
+		<Follower>0.01006</Follower>
+		<Friend>0.006</Friend>
+		<ClassifiedTweetText>0.02029</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.05241</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='95143772' >
+		<TweetText>0.00799</TweetText>
+		<CommonTweeter>0.09561</CommonTweeter>
+		<Follower>0.09049</Follower>
+		<Friend>0.08104</Friend>
+		<RetweetsText>0.00563</RetweetsText>
+		<ClassifiedTweetText>0.0063</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='95951868' >
+		<TweetText>0.02052</TweetText>
+		<CommonTweeter>0.10935</CommonTweeter>
+		<Follower>0.07113</Follower>
+		<Friend>0.07316</Friend>
+		<RetweetsText>0.02867</RetweetsText>
+		<ClassifiedTweetText>0.01058</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='972651' >
+		<FavTweetText>0.02788</FavTweetText>
+		<TweetText>0.02224</TweetText>
+		<Friend>0.0028</Friend>
+		<RetweetsText>0.03123</RetweetsText>
+		<ClassifiedTweetText>0.01472</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='97542499' >
+		<TweetText>0.04297</TweetText>
+		<Follower>0.00066</Follower>
+		<RetweetsText>0.04618</RetweetsText>
+		<ClassifiedTweetText>0.01335</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='102391063' >
+		<TweetText>0.03485</TweetText>
+		<CommonTweeter>0.17549</CommonTweeter>
+		<Follower>0.11901</Follower>
+		<Friend>0.06088</Friend>
+		<RetweetsText>0.00746</RetweetsText>
+		<ClassifiedTweetText>0.02637</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='108391251' >
+		<FavTweetText>0.06374</FavTweetText>
+		<TweetText>0.01992</TweetText>
+		<Friend>0.00803</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.01886</RetweetsText>
+		<ClassifiedTweetText>0.00876</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.00806</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='111365839' >
+		<TweetText>0.02067</TweetText>
+		<CommonTweeter>0.0939</CommonTweeter>
+		<Follower>0.0995</Follower>
+		<Friend>0.05586</Friend>
+		<ClassifiedTweetText>0.01886</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='113435178' >
+		<FavTweetText>0.02712</FavTweetText>
+		<TweetText>0.01277</TweetText>
+		<Friend>0.00615</Friend>
+		<RetweetsText>0.03771</RetweetsText>
+		<ClassifiedTweetText>0.01123</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='11348282' >
+		<TweetsUsernames>0.01024</TweetsUsernames>
+		<TweetText>0.03776</TweetText>
+		<RetweetsText>0.08245</RetweetsText>
+		<ClassifiedTweetText>0.01654</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='113963' >
+		<FavTweetText>0.06439</FavTweetText>
+		<TweetText>0.02172</TweetText>
+		<Follower>0.00164</Follower>
+		<Friend>0.00809</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.03273</RetweetsText>
+		<ClassifiedTweetText>0.00999</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.02514</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='130458288' >
+		<TweetsURLs>1</TweetsURLs>
+		<FavTweetUserTZ>1</FavTweetUserTZ>
+		<FavTweetUserListsCount>1</FavTweetUserListsCount>
+		<FavTweetScreenName>1</FavTweetScreenName>
+		<TweetsUsernames>1</TweetsUsernames>
+		<FavTweetUserFollowersCount>1</FavTweetUserFollowersCount>
+		<FavTweetUserFriendsCount>1</FavTweetUserFriendsCount>
+		<FavTweetUsername>1</FavTweetUsername>
+		<FavTweetUserId>1</FavTweetUserId>
+		<FavTweetText>1</FavTweetText>
+		<RetweetUsernames>1</RetweetUsernames>
+		<TweetText>1</TweetText>
+		<CommonTweeter>1</CommonTweeter>
+		<FavTweetUserLocation>1</FavTweetUserLocation>
+		<Follower>1</Follower>
+		<RetweetHashtags>1</RetweetHashtags>
+		<Friend>1</Friend>
+		<TweetsHashTags>1</TweetsHashTags>
+		<FavTweetUserStatusesCount>1</FavTweetUserStatusesCount>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetURLs>1</RetweetURLs>
+		<FavTweetUserURL>1</FavTweetUserURL>
+		<RetweetsText>1</RetweetsText>
+		<ClassifiedTweetText>1</ClassifiedTweetText>
+		<FavTweetClassifiedText>1</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='133782966' >
+		<TweetsUsernames>0.01219</TweetsUsernames>
+		<RetweetUsernames>0.02492</RetweetUsernames>
+		<TweetText>0.03021</TweetText>
+		<Friend>0.0119</Friend>
+		<RetweetsText>0.07315</RetweetsText>
+		<ClassifiedTweetText>0.01819</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='135421739' >
+		<TweetText>0.02792</TweetText>
+		<ClassifiedTweetText>0.02555</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='139768884' >
+		<TweetText>0.02292</TweetText>
+		<CommonTweeter>0.11268</CommonTweeter>
+		<Follower>0.08579</Follower>
+		<Friend>0.06969</Friend>
+		<RetweetsText>0.04508</RetweetsText>
+		<ClassifiedTweetText>0.01147</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='140811199' >
+		<FavTweetText>0.06898</FavTweetText>
+		<TweetText>0.02441</TweetText>
+		<CommonTweeter>0.05165</CommonTweeter>
+		<Follower>0.0281</Follower>
+		<Friend>0.0302</Friend>
+		<RetweetsText>0.04656</RetweetsText>
+		<ClassifiedTweetText>0.00813</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='14346186' >
+		<TweetText>0.01615</TweetText>
+		<Follower>0.00022</Follower>
+		<Friend>0.02469</Friend>
+		<RetweetsText>0.07173</RetweetsText>
+		<ClassifiedTweetText>0.02037</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15110431' >
+		<TweetText>0.00636</TweetText>
+		<ClassifiedTweetText>0.0151</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15134782' >
+		<TweetText>0.01965</TweetText>
+		<Friend>0.00028</Friend>
+		<RetweetsText>0.05987</RetweetsText>
+		<ClassifiedTweetText>0.01756</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15166546' >
+		<FavTweetText>0.01374</FavTweetText>
+		<TweetText>0.01872</TweetText>
+		<Follower>0.00195</Follower>
+		<RetweetsText>0.07151</RetweetsText>
+		<ClassifiedTweetText>0.0139</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15432645' >
+		<TweetText>0.02198</TweetText>
+		<Follower>0.00031</Follower>
+		<Friend>0.00225</Friend>
+		<RetweetsText>0.06345</RetweetsText>
+		<ClassifiedTweetText>0.023</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15492359' >
+		<FavTweetText>0.02927</FavTweetText>
+		<TweetText>0.00846</TweetText>
+		<RetweetsText>0.02675</RetweetsText>
+		<ClassifiedTweetText>0.00895</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='154970439' >
+		<TweetText>0.00091</TweetText>
+		<CommonTweeter>0.02237</CommonTweeter>
+		<Follower>0.04358</Follower>
+		<Friend>0.02574</Friend>
+		<ClassifiedTweetText>0.02171</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15521075' >
+		<TweetsURLs>0.01917</TweetsURLs>
+		<FavTweetText>0.07118</FavTweetText>
+		<TweetText>0.00835</TweetText>
+		<Follower>0.00021</Follower>
+		<Friend>0.02019</Friend>
+		<ClassifiedTweetText>0.00821</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15593588' >
+		<TweetText>0.005</TweetText>
+		<Follower>0.00302</Follower>
+		<ClassifiedTweetText>0.00566</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='16319797' >
+		<FavTweetText>0.01378</FavTweetText>
+		<TweetText>0.01725</TweetText>
+		<Follower>0.00022</Follower>
+		<RetweetHashtags>0.04343</RetweetHashtags>
+		<Friend>0.00329</Friend>
+		<TweetsHashTags>0.01125</TweetsHashTags>
+		<RetweetsText>0.05927</RetweetsText>
+		<ClassifiedTweetText>0.00991</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='167346791' >
+		<FavTweetText>0.01391</FavTweetText>
+		<TweetText>0.01489</TweetText>
+		<CommonTweeter>0.00387</CommonTweeter>
+		<Follower>0.00617</Follower>
+		<Friend>0.0029</Friend>
+		<ClassifiedTweetText>0.01065</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='16949221' >
+		<TweetsUsernames>0.01671</TweetsUsernames>
+		<FavTweetText>0.07666</FavTweetText>
+		<RetweetUsernames>0.032</RetweetUsernames>
+		<TweetText>0.02621</TweetText>
+		<CommonTweeter>0.01397</CommonTweeter>
+		<Follower>0.00764</Follower>
+		<Friend>0.04196</Friend>
+		<RetweetsText>0.12934</RetweetsText>
+		<ClassifiedTweetText>0.02669</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.02593</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='17149512' >
+		<TweetsURLs>0.028</TweetsURLs>
+		<TweetsUsernames>0.06778</TweetsUsernames>
+		<RetweetUsernames>0.05125</RetweetUsernames>
+		<TweetText>0.07894</TweetText>
+		<CommonTweeter>0.03176</CommonTweeter>
+		<Follower>0.01387</Follower>
+		<RetweetHashtags>0.10536</RetweetHashtags>
+		<Friend>0.10681</Friend>
+		<TweetsHashTags>0.04885</TweetsHashTags>
+		<RetweetsText>0.1369</RetweetsText>
+		<ClassifiedTweetText>0.05652</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='17163609' >
+		<TweetText>0.02851</TweetText>
+		<Friend>0.00875</Friend>
+		<RetweetsText>0.09093</RetweetsText>
+		<ClassifiedTweetText>0.0134</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='17482727' >
+		<FavTweetText>0.01394</FavTweetText>
+		<TweetText>0.03206</TweetText>
+		<Follower>0.00023</Follower>
+		<Friend>0.02529</Friend>
+		<RetweetsText>0.00892</RetweetsText>
+		<ClassifiedTweetText>0.01963</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='18548529' >
+		<TweetText>0.04294</TweetText>
+		<CommonTweeter>0.01683</CommonTweeter>
+		<Follower>0.01802</Follower>
+		<Friend>0.0251</Friend>
+		<RetweetsText>0.04748</RetweetsText>
+		<ClassifiedTweetText>0.02029</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='193373572' >
+		<TweetText>0.04435</TweetText>
+		<CommonTweeter>0.0631</CommonTweeter>
+		<Follower>0.08224</Follower>
+		<Friend>0.06271</Friend>
+		<RetweetsText>0.03454</RetweetsText>
+		<ClassifiedTweetText>0.005</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='19618954' >
+		<TweetText>0.02605</TweetText>
+		<Follower>0.00045</Follower>
+		<RetweetsText>0.06655</RetweetsText>
+		<ClassifiedTweetText>0.01339</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='19652820' >
+		<TweetText>0.0288</TweetText>
+		<Follower>0.00045</Follower>
+		<Friend>0.03353</Friend>
+		<ClassifiedTweetText>0.00357</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='20167623' >
+		<TweetsURLs>0.01823</TweetsURLs>
+		<TweetsUsernames>0.02902</TweetsUsernames>
+		<FavTweetText>0.02106</FavTweetText>
+		<RetweetUsernames>0.03903</RetweetUsernames>
+		<TweetText>0.03216</TweetText>
+		<CommonTweeter>0.01034</CommonTweeter>
+		<Follower>0.00712</Follower>
+		<RetweetHashtags>0.16651</RetweetHashtags>
+		<Friend>0.0317</Friend>
+		<TweetsHashTags>0.12926</TweetsHashTags>
+		<RetweetURLs>0.08498</RetweetURLs>
+		<RetweetsText>0.07292</RetweetsText>
+		<ClassifiedTweetText>0.02993</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.01663</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='20536157' >
+		<TweetsUsernames>0.01074</TweetsUsernames>
+		<FavTweetText>0.03142</FavTweetText>
+		<TweetText>0.02208</TweetText>
+		<Friend>0.00508</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.03883</RetweetsText>
+		<ClassifiedTweetText>0.02191</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.02561</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='21457289' >
+		<TweetText>0.01647</TweetText>
+		<Friend>0.00465</Friend>
+		<RetweetsText>0.04776</RetweetsText>
+		<ClassifiedTweetText>0.00978</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='23731187' >
+		<TweetText>0.00977</TweetText>
+		<Follower>0.00727</Follower>
+		<ClassifiedTweetText>0.00933</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='251908806' >
+		<TweetText>0.00378</TweetText>
+		<Follower>0.10867</Follower>
+		<ClassifiedTweetText>0.00394</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='27978316' >
+		<TweetText>0.02596</TweetText>
+		<Follower>0.00067</Follower>
+		<RetweetsText>0.02292</RetweetsText>
+		<ClassifiedTweetText>0.01351</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='292314390' >
+		<TweetText>0.02141</TweetText>
+		<ClassifiedTweetText>0.04061</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='31053470' >
+		<FavTweetText>0.06745</FavTweetText>
+		<TweetText>0.05376</TweetText>
+		<CommonTweeter>0.00851</CommonTweeter>
+		<Follower>0.01296</Follower>
+		<Friend>0.02548</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.05981</RetweetsText>
+		<ClassifiedTweetText>0.07882</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='315704132' >
+		<FavTweetUsername>0.40947</FavTweetUsername>
+		<TweetText>0.00051</TweetText>
+		<Follower>0.09267</Follower>
+		<Friend>0.01313</Friend>
+	</TargetID>
+	<TargetID id='33838201' >
+		<TweetText>0.0225</TweetText>
+		<Friend>0.04972</Friend>
+		<RetweetsText>0.02999</RetweetsText>
+		<ClassifiedTweetText>0.01274</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='36076870' >
+		<FavTweetText>0.04732</FavTweetText>
+		<TweetText>0.01836</TweetText>
+		<Follower>0.00056</Follower>
+		<Friend>0.01838</Friend>
+		<RetweetsText>0.0236</RetweetsText>
+		<ClassifiedTweetText>0.0108</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='42573217' >
+		<FavTweetText>0.06202</FavTweetText>
+		<TweetText>0.04036</TweetText>
+		<Friend>0.01143</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.04979</RetweetsText>
+		<ClassifiedTweetText>0.02065</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='4519121' >
+		<FavTweetText>0.02884</FavTweetText>
+		<TweetText>0.0274</TweetText>
+		<Friend>0.00399</Friend>
+		<RetweetsText>0.04181</RetweetsText>
+		<ClassifiedTweetText>0.01356</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='50393960' >
+		<TweetText>0.03018</TweetText>
+		<Friend>0.00519</Friend>
+		<RetweetsText>0.01826</RetweetsText>
+		<ClassifiedTweetText>0.012</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='506528882' >
+		<Friend>0.01849</Friend>
+	</TargetID>
+	<TargetID id='59104629' >
+		<TweetText>0.03924</TweetText>
+		<CommonTweeter>0.09666</CommonTweeter>
+		<Follower>0.0493</Follower>
+		<Friend>0.04088</Friend>
+		<RetweetsText>0.03698</RetweetsText>
+		<ClassifiedTweetText>0.03114</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='60937837' >
+		<FavTweetText>0.02506</FavTweetText>
+		<TweetText>0.02118</TweetText>
+		<RetweetsText>0.02876</RetweetsText>
+		<ClassifiedTweetText>0.00631</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='6463042' >
+		<FavTweetText>0.09366</FavTweetText>
+		<TweetText>0.01253</TweetText>
+		<Friend>0.01292</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.03861</RetweetsText>
+		<ClassifiedTweetText>0.00932</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.02071</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='68097618' >
+		<FavTweetText>0.01887</FavTweetText>
+		<TweetText>0.0836</TweetText>
+		<CommonTweeter>0.00864</CommonTweeter>
+		<Follower>0.00822</Follower>
+		<Friend>0.02045</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.0913</RetweetsText>
+		<ClassifiedTweetText>0.12556</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='68639853' >
+		<TweetText>0.02679</TweetText>
+		<ClassifiedTweetText>0.02836</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='69382909' >
+		<FavTweetText>0.03396</FavTweetText>
+		<TweetText>0.02164</TweetText>
+		<RetweetsText>0.01758</RetweetsText>
+		<ClassifiedTweetText>0.02342</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='75035680' >
+		<TweetsUsernames>0.04886</TweetsUsernames>
+		<RetweetUsernames>0.12194</RetweetUsernames>
+		<TweetText>0.01991</TweetText>
+		<CommonTweeter>0.03036</CommonTweeter>
+		<Follower>0.02381</Follower>
+		<Friend>0.0242</Friend>
+		<RetweetsText>0.03811</RetweetsText>
+		<ClassifiedTweetText>0.00422</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='75341204' >
+		<TweetsUsernames>0.01178</TweetsUsernames>
+		<RetweetUsernames>0.01969</RetweetUsernames>
+		<TweetText>0.03674</TweetText>
+		<CommonTweeter>0.03987</CommonTweeter>
+		<Follower>0.02744</Follower>
+		<Friend>0.05296</Friend>
+		<RetweetsText>0.05637</RetweetsText>
+		<ClassifiedTweetText>0.01623</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='783214' >
+		<TweetText>0.01658</TweetText>
+		<RetweetsText>0.06418</RetweetsText>
+		<ClassifiedTweetText>0.01507</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='79659995' >
+		<FavTweetText>0.02457</FavTweetText>
+		<TweetText>0.0304</TweetText>
+		<CommonTweeter>0.04573</CommonTweeter>
+		<Follower>0.05346</Follower>
+		<Friend>0.25251</Friend>
+		<RetweetsText>0.07232</RetweetsText>
+		<ClassifiedTweetText>0.01966</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='84404237' >
+		<TweetText>0.00937</TweetText>
+		<ClassifiedTweetText>0.00389</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='8454562' >
+		<FavTweetText>0.08916</FavTweetText>
+		<TweetText>0.02904</TweetText>
+		<Follower>0.00266</Follower>
+		<RetweetsText>0.06814</RetweetsText>
+		<ClassifiedTweetText>0.02887</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='89635940' >
+		<TweetText>0.00259</TweetText>
+		<CommonTweeter>0.12544</CommonTweeter>
+		<Follower>0.08763</Follower>
+		<Friend>0.10129</Friend>
+	</TargetID>
+	<TargetID id='92746664' >
+		<FavTweetText>0.11065</FavTweetText>
+		<TweetText>0.05676</TweetText>
+		<Follower>0.01006</Follower>
+		<Friend>0.006</Friend>
+		<ClassifiedTweetText>0.02029</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.05241</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='95143772' >
+		<TweetText>0.00799</TweetText>
+		<CommonTweeter>0.09561</CommonTweeter>
+		<Follower>0.09049</Follower>
+		<Friend>0.08104</Friend>
+		<RetweetsText>0.00563</RetweetsText>
+		<ClassifiedTweetText>0.0063</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='95951868' >
+		<TweetText>0.02052</TweetText>
+		<CommonTweeter>0.10935</CommonTweeter>
+		<Follower>0.07113</Follower>
+		<Friend>0.07316</Friend>
+		<RetweetsText>0.02867</RetweetsText>
+		<ClassifiedTweetText>0.01058</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='972651' >
+		<FavTweetText>0.02788</FavTweetText>
+		<TweetText>0.02224</TweetText>
+		<Friend>0.0028</Friend>
+		<RetweetsText>0.03123</RetweetsText>
+		<ClassifiedTweetText>0.01472</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='97542499' >
+		<TweetText>0.04297</TweetText>
+		<Follower>0.00066</Follower>
+		<RetweetsText>0.04618</RetweetsText>
+		<ClassifiedTweetText>0.01335</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='102391063' >
+		<TweetText>0.03485</TweetText>
+		<CommonTweeter>0.17549</CommonTweeter>
+		<Follower>0.11901</Follower>
+		<Friend>0.06088</Friend>
+		<RetweetsText>0.00746</RetweetsText>
+		<ClassifiedTweetText>0.02637</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='108391251' >
+		<FavTweetText>0.06374</FavTweetText>
+		<TweetText>0.01992</TweetText>
+		<Friend>0.00803</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.01886</RetweetsText>
+		<ClassifiedTweetText>0.00876</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.00806</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='111365839' >
+		<TweetText>0.02067</TweetText>
+		<CommonTweeter>0.0939</CommonTweeter>
+		<Follower>0.0995</Follower>
+		<Friend>0.05586</Friend>
+		<ClassifiedTweetText>0.01886</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='113435178' >
+		<FavTweetText>0.02712</FavTweetText>
+		<TweetText>0.01277</TweetText>
+		<Friend>0.00615</Friend>
+		<RetweetsText>0.03771</RetweetsText>
+		<ClassifiedTweetText>0.01123</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='11348282' >
+		<TweetsUsernames>0.01024</TweetsUsernames>
+		<TweetText>0.03776</TweetText>
+		<RetweetsText>0.08245</RetweetsText>
+		<ClassifiedTweetText>0.01654</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='113963' >
+		<FavTweetText>0.06439</FavTweetText>
+		<TweetText>0.02172</TweetText>
+		<Follower>0.00164</Follower>
+		<Friend>0.00809</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.03273</RetweetsText>
+		<ClassifiedTweetText>0.00999</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.02514</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='130458288' >
+		<TweetsURLs>1</TweetsURLs>
+		<FavTweetUserTZ>1</FavTweetUserTZ>
+		<FavTweetUserListsCount>1</FavTweetUserListsCount>
+		<FavTweetScreenName>1</FavTweetScreenName>
+		<TweetsUsernames>1</TweetsUsernames>
+		<FavTweetUserFollowersCount>1</FavTweetUserFollowersCount>
+		<FavTweetUserFriendsCount>1</FavTweetUserFriendsCount>
+		<FavTweetUsername>1</FavTweetUsername>
+		<FavTweetUserId>1</FavTweetUserId>
+		<FavTweetText>1</FavTweetText>
+		<RetweetUsernames>1</RetweetUsernames>
+		<TweetText>1</TweetText>
+		<CommonTweeter>1</CommonTweeter>
+		<FavTweetUserLocation>1</FavTweetUserLocation>
+		<Follower>1</Follower>
+		<RetweetHashtags>1</RetweetHashtags>
+		<Friend>1</Friend>
+		<TweetsHashTags>1</TweetsHashTags>
+		<FavTweetUserStatusesCount>1</FavTweetUserStatusesCount>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetURLs>1</RetweetURLs>
+		<FavTweetUserURL>1</FavTweetUserURL>
+		<RetweetsText>1</RetweetsText>
+		<ClassifiedTweetText>1</ClassifiedTweetText>
+		<FavTweetClassifiedText>1</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='133782966' >
+		<TweetsUsernames>0.01219</TweetsUsernames>
+		<RetweetUsernames>0.02492</RetweetUsernames>
+		<TweetText>0.03021</TweetText>
+		<Friend>0.0119</Friend>
+		<RetweetsText>0.07315</RetweetsText>
+		<ClassifiedTweetText>0.01819</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='135421739' >
+		<TweetText>0.02792</TweetText>
+		<ClassifiedTweetText>0.02555</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='139768884' >
+		<TweetText>0.02292</TweetText>
+		<CommonTweeter>0.11268</CommonTweeter>
+		<Follower>0.08579</Follower>
+		<Friend>0.06969</Friend>
+		<RetweetsText>0.04508</RetweetsText>
+		<ClassifiedTweetText>0.01147</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='140811199' >
+		<FavTweetText>0.06898</FavTweetText>
+		<TweetText>0.02441</TweetText>
+		<CommonTweeter>0.05165</CommonTweeter>
+		<Follower>0.0281</Follower>
+		<Friend>0.0302</Friend>
+		<RetweetsText>0.04656</RetweetsText>
+		<ClassifiedTweetText>0.00813</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='14346186' >
+		<TweetText>0.01615</TweetText>
+		<Follower>0.00022</Follower>
+		<Friend>0.02469</Friend>
+		<RetweetsText>0.07173</RetweetsText>
+		<ClassifiedTweetText>0.02037</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15110431' >
+		<TweetText>0.00636</TweetText>
+		<ClassifiedTweetText>0.0151</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15134782' >
+		<TweetText>0.01965</TweetText>
+		<Friend>0.00028</Friend>
+		<RetweetsText>0.05987</RetweetsText>
+		<ClassifiedTweetText>0.01756</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15166546' >
+		<FavTweetText>0.01374</FavTweetText>
+		<TweetText>0.01872</TweetText>
+		<Follower>0.00195</Follower>
+		<RetweetsText>0.07151</RetweetsText>
+		<ClassifiedTweetText>0.0139</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15432645' >
+		<TweetText>0.02198</TweetText>
+		<Follower>0.00031</Follower>
+		<Friend>0.00225</Friend>
+		<RetweetsText>0.06345</RetweetsText>
+		<ClassifiedTweetText>0.023</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15492359' >
+		<FavTweetText>0.02927</FavTweetText>
+		<TweetText>0.00846</TweetText>
+		<RetweetsText>0.02675</RetweetsText>
+		<ClassifiedTweetText>0.00895</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='154970439' >
+		<TweetText>0.00091</TweetText>
+		<CommonTweeter>0.02237</CommonTweeter>
+		<Follower>0.04358</Follower>
+		<Friend>0.02574</Friend>
+		<ClassifiedTweetText>0.02171</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15521075' >
+		<TweetsURLs>0.01917</TweetsURLs>
+		<FavTweetText>0.07118</FavTweetText>
+		<TweetText>0.00835</TweetText>
+		<Follower>0.00021</Follower>
+		<Friend>0.02019</Friend>
+		<ClassifiedTweetText>0.00821</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='15593588' >
+		<TweetText>0.005</TweetText>
+		<Follower>0.00302</Follower>
+		<ClassifiedTweetText>0.00566</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='16319797' >
+		<FavTweetText>0.01378</FavTweetText>
+		<TweetText>0.01725</TweetText>
+		<Follower>0.00022</Follower>
+		<RetweetHashtags>0.04343</RetweetHashtags>
+		<Friend>0.00329</Friend>
+		<TweetsHashTags>0.01125</TweetsHashTags>
+		<RetweetsText>0.05927</RetweetsText>
+		<ClassifiedTweetText>0.00991</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='167346791' >
+		<FavTweetText>0.01391</FavTweetText>
+		<TweetText>0.01489</TweetText>
+		<CommonTweeter>0.00387</CommonTweeter>
+		<Follower>0.00617</Follower>
+		<Friend>0.0029</Friend>
+		<ClassifiedTweetText>0.01065</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='16949221' >
+		<TweetsUsernames>0.01671</TweetsUsernames>
+		<FavTweetText>0.07666</FavTweetText>
+		<RetweetUsernames>0.032</RetweetUsernames>
+		<TweetText>0.02621</TweetText>
+		<CommonTweeter>0.01397</CommonTweeter>
+		<Follower>0.00764</Follower>
+		<Friend>0.04196</Friend>
+		<RetweetsText>0.12934</RetweetsText>
+		<ClassifiedTweetText>0.02669</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.02593</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='17149512' >
+		<TweetsURLs>0.028</TweetsURLs>
+		<TweetsUsernames>0.06778</TweetsUsernames>
+		<RetweetUsernames>0.05125</RetweetUsernames>
+		<TweetText>0.07894</TweetText>
+		<CommonTweeter>0.03176</CommonTweeter>
+		<Follower>0.01387</Follower>
+		<RetweetHashtags>0.10536</RetweetHashtags>
+		<Friend>0.10681</Friend>
+		<TweetsHashTags>0.04885</TweetsHashTags>
+		<RetweetsText>0.1369</RetweetsText>
+		<ClassifiedTweetText>0.05652</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='17163609' >
+		<TweetText>0.02851</TweetText>
+		<Friend>0.00875</Friend>
+		<RetweetsText>0.09093</RetweetsText>
+		<ClassifiedTweetText>0.0134</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='17482727' >
+		<FavTweetText>0.01394</FavTweetText>
+		<TweetText>0.03206</TweetText>
+		<Follower>0.00023</Follower>
+		<Friend>0.02529</Friend>
+		<RetweetsText>0.00892</RetweetsText>
+		<ClassifiedTweetText>0.01963</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='18548529' >
+		<TweetText>0.04294</TweetText>
+		<CommonTweeter>0.01683</CommonTweeter>
+		<Follower>0.01802</Follower>
+		<Friend>0.0251</Friend>
+		<RetweetsText>0.04748</RetweetsText>
+		<ClassifiedTweetText>0.02029</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='193373572' >
+		<TweetText>0.04435</TweetText>
+		<CommonTweeter>0.0631</CommonTweeter>
+		<Follower>0.08224</Follower>
+		<Friend>0.06271</Friend>
+		<RetweetsText>0.03454</RetweetsText>
+		<ClassifiedTweetText>0.005</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='19618954' >
+		<TweetText>0.02605</TweetText>
+		<Follower>0.00045</Follower>
+		<RetweetsText>0.06655</RetweetsText>
+		<ClassifiedTweetText>0.01339</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='19652820' >
+		<TweetText>0.0288</TweetText>
+		<Follower>0.00045</Follower>
+		<Friend>0.03353</Friend>
+		<ClassifiedTweetText>0.00357</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='20167623' >
+		<TweetsURLs>0.01823</TweetsURLs>
+		<TweetsUsernames>0.02902</TweetsUsernames>
+		<FavTweetText>0.02106</FavTweetText>
+		<RetweetUsernames>0.03903</RetweetUsernames>
+		<TweetText>0.03216</TweetText>
+		<CommonTweeter>0.01034</CommonTweeter>
+		<Follower>0.00712</Follower>
+		<RetweetHashtags>0.16651</RetweetHashtags>
+		<Friend>0.0317</Friend>
+		<TweetsHashTags>0.12926</TweetsHashTags>
+		<RetweetURLs>0.08498</RetweetURLs>
+		<RetweetsText>0.07292</RetweetsText>
+		<ClassifiedTweetText>0.02993</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.01663</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='20536157' >
+		<TweetsUsernames>0.01074</TweetsUsernames>
+		<FavTweetText>0.03142</FavTweetText>
+		<TweetText>0.02208</TweetText>
+		<Friend>0.00508</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.03883</RetweetsText>
+		<ClassifiedTweetText>0.02191</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.02561</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='21457289' >
+		<TweetText>0.01647</TweetText>
+		<Friend>0.00465</Friend>
+		<RetweetsText>0.04776</RetweetsText>
+		<ClassifiedTweetText>0.00978</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='23731187' >
+		<TweetText>0.00977</TweetText>
+		<Follower>0.00727</Follower>
+		<ClassifiedTweetText>0.00933</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='251908806' >
+		<TweetText>0.00378</TweetText>
+		<Follower>0.10867</Follower>
+		<ClassifiedTweetText>0.00394</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='27978316' >
+		<TweetText>0.02596</TweetText>
+		<Follower>0.00067</Follower>
+		<RetweetsText>0.02292</RetweetsText>
+		<ClassifiedTweetText>0.01351</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='292314390' >
+		<TweetText>0.02141</TweetText>
+		<ClassifiedTweetText>0.04061</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='31053470' >
+		<FavTweetText>0.06745</FavTweetText>
+		<TweetText>0.05376</TweetText>
+		<CommonTweeter>0.00851</CommonTweeter>
+		<Follower>0.01296</Follower>
+		<Friend>0.02548</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.05981</RetweetsText>
+		<ClassifiedTweetText>0.07882</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='315704132' >
+		<FavTweetUsername>0.40947</FavTweetUsername>
+		<TweetText>0.00051</TweetText>
+		<Follower>0.09267</Follower>
+		<Friend>0.01313</Friend>
+	</TargetID>
+	<TargetID id='33838201' >
+		<TweetText>0.0225</TweetText>
+		<Friend>0.04972</Friend>
+		<RetweetsText>0.02999</RetweetsText>
+		<ClassifiedTweetText>0.01274</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='36076870' >
+		<FavTweetText>0.04732</FavTweetText>
+		<TweetText>0.01836</TweetText>
+		<Follower>0.00056</Follower>
+		<Friend>0.01838</Friend>
+		<RetweetsText>0.0236</RetweetsText>
+		<ClassifiedTweetText>0.0108</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='42573217' >
+		<FavTweetText>0.06202</FavTweetText>
+		<TweetText>0.04036</TweetText>
+		<Friend>0.01143</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.04979</RetweetsText>
+		<ClassifiedTweetText>0.02065</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='4519121' >
+		<FavTweetText>0.02884</FavTweetText>
+		<TweetText>0.0274</TweetText>
+		<Friend>0.00399</Friend>
+		<RetweetsText>0.04181</RetweetsText>
+		<ClassifiedTweetText>0.01356</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='50393960' >
+		<TweetText>0.03018</TweetText>
+		<Friend>0.00519</Friend>
+		<RetweetsText>0.01826</RetweetsText>
+		<ClassifiedTweetText>0.012</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='506528882' >
+		<Friend>0.01849</Friend>
+	</TargetID>
+	<TargetID id='59104629' >
+		<TweetText>0.03924</TweetText>
+		<CommonTweeter>0.09666</CommonTweeter>
+		<Follower>0.0493</Follower>
+		<Friend>0.04088</Friend>
+		<RetweetsText>0.03698</RetweetsText>
+		<ClassifiedTweetText>0.03114</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='60937837' >
+		<FavTweetText>0.02506</FavTweetText>
+		<TweetText>0.02118</TweetText>
+		<RetweetsText>0.02876</RetweetsText>
+		<ClassifiedTweetText>0.00631</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='6463042' >
+		<FavTweetText>0.09366</FavTweetText>
+		<TweetText>0.01253</TweetText>
+		<Friend>0.01292</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.03861</RetweetsText>
+		<ClassifiedTweetText>0.00932</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.02071</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='68097618' >
+		<FavTweetText>0.01887</FavTweetText>
+		<TweetText>0.0836</TweetText>
+		<CommonTweeter>0.00864</CommonTweeter>
+		<Follower>0.00822</Follower>
+		<Friend>0.02045</Friend>
+		<FavTweetUserLang>1</FavTweetUserLang>
+		<RetweetsText>0.0913</RetweetsText>
+		<ClassifiedTweetText>0.12556</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='68639853' >
+		<TweetText>0.02679</TweetText>
+		<ClassifiedTweetText>0.02836</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='69382909' >
+		<FavTweetText>0.03396</FavTweetText>
+		<TweetText>0.02164</TweetText>
+		<RetweetsText>0.01758</RetweetsText>
+		<ClassifiedTweetText>0.02342</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='75035680' >
+		<TweetsUsernames>0.04886</TweetsUsernames>
+		<RetweetUsernames>0.12194</RetweetUsernames>
+		<TweetText>0.01991</TweetText>
+		<CommonTweeter>0.03036</CommonTweeter>
+		<Follower>0.02381</Follower>
+		<Friend>0.0242</Friend>
+		<RetweetsText>0.03811</RetweetsText>
+		<ClassifiedTweetText>0.00422</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='75341204' >
+		<TweetsUsernames>0.01178</TweetsUsernames>
+		<RetweetUsernames>0.01969</RetweetUsernames>
+		<TweetText>0.03674</TweetText>
+		<CommonTweeter>0.03987</CommonTweeter>
+		<Follower>0.02744</Follower>
+		<Friend>0.05296</Friend>
+		<RetweetsText>0.05637</RetweetsText>
+		<ClassifiedTweetText>0.01623</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='783214' >
+		<TweetText>0.01658</TweetText>
+		<RetweetsText>0.06418</RetweetsText>
+		<ClassifiedTweetText>0.01507</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='79659995' >
+		<FavTweetText>0.02457</FavTweetText>
+		<TweetText>0.0304</TweetText>
+		<CommonTweeter>0.04573</CommonTweeter>
+		<Follower>0.05346</Follower>
+		<Friend>0.25251</Friend>
+		<RetweetsText>0.07232</RetweetsText>
+		<ClassifiedTweetText>0.01966</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='84404237' >
+		<TweetText>0.00937</TweetText>
+		<ClassifiedTweetText>0.00389</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='8454562' >
+		<FavTweetText>0.08916</FavTweetText>
+		<TweetText>0.02904</TweetText>
+		<Follower>0.00266</Follower>
+		<RetweetsText>0.06814</RetweetsText>
+		<ClassifiedTweetText>0.02887</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='89635940' >
+		<TweetText>0.00259</TweetText>
+		<CommonTweeter>0.12544</CommonTweeter>
+		<Follower>0.08763</Follower>
+		<Friend>0.10129</Friend>
+	</TargetID>
+	<TargetID id='92746664' >
+		<FavTweetText>0.11065</FavTweetText>
+		<TweetText>0.05676</TweetText>
+		<Follower>0.01006</Follower>
+		<Friend>0.006</Friend>
+		<ClassifiedTweetText>0.02029</ClassifiedTweetText>
+		<FavTweetClassifiedText>0.05241</FavTweetClassifiedText>
+	</TargetID>
+	<TargetID id='95143772' >
+		<TweetText>0.00799</TweetText>
+		<CommonTweeter>0.09561</CommonTweeter>
+		<Follower>0.09049</Follower>
+		<Friend>0.08104</Friend>
+		<RetweetsText>0.00563</RetweetsText>
+		<ClassifiedTweetText>0.0063</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='95951868' >
+		<TweetText>0.02052</TweetText>
+		<CommonTweeter>0.10935</CommonTweeter>
+		<Follower>0.07113</Follower>
+		<Friend>0.07316</Friend>
+		<RetweetsText>0.02867</RetweetsText>
+		<ClassifiedTweetText>0.01058</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='972651' >
+		<FavTweetText>0.02788</FavTweetText>
+		<TweetText>0.02224</TweetText>
+		<Friend>0.0028</Friend>
+		<RetweetsText>0.03123</RetweetsText>
+		<ClassifiedTweetText>0.01472</ClassifiedTweetText>
+	</TargetID>
+	<TargetID id='97542499' >
+		<TweetText>0.04297</TweetText>
+		<Follower>0.00066</Follower>
+		<RetweetsText>0.04618</RetweetsText>
+		<ClassifiedTweetText>0.01335</ClassifiedTweetText>
+	</TargetID>
+</SourceID>
